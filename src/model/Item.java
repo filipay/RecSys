@@ -7,9 +7,11 @@ import java.util.stream.Collectors;
  * Author: Filip Piskor[12331436] on 16/02/16.
  */
 public class Item {
+    private final Integer itemID;
     private ArrayList<Integer> ratings;
 
-    public Item() {
+    public Item(Integer itemID) {
+        this.itemID = itemID;
         ratings = new ArrayList<>();
     }
 
@@ -32,14 +34,15 @@ public class Item {
     public double medianRating() {
         ArrayList<Integer> sortedRatings = new ArrayList<>();
         int middle = ratings.size() / 2;
-        System.out.println(middle);
         for (Integer rating : ratings) {
             sortedRatings.add(rating);
         }
 
         sortedRatings.sort(Integer::compareTo);
 
-        return (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5;
+        return middle > 0 ?
+                (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5 :
+                sortedRatings.get(middle);
     }
 
     public double standardDeviationRating() {
@@ -68,5 +71,17 @@ public class Item {
             minRating = Math.min(minRating, itemID);
         }
         return minRating;
+    }
+
+    @Override
+    public String toString() {
+        return "{" + "\n\t" +
+                "\"itemID\": " + itemID + ", \n\t" +
+                "\"meanOfRating\": " + meanRating() + ", \n\t" +
+                "\"medianOfRating\": " + medianRating() + ", \n\t" +
+                "\"standardDeviationOfRatings\": " + standardDeviationRating() + ", \n\t" +
+                "\"maxRating\": " + maxRating() + ", \n\t" +
+                "\"minRating\": " + minRating() + "\n" +
+                '}';
     }
 }

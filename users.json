@@ -1,0 +1,7546 @@
+[
+{
+	"userID": 1, 
+	"meanOfRating": 3.610294117647059, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2612598400341797, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 2, 
+	"meanOfRating": 3.7096774193548385, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.022127710822894, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 3, 
+	"meanOfRating": 2.7962962962962963, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.207685721161509, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 4, 
+	"meanOfRating": 4.333333333333333, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8975274678557508, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 5, 
+	"meanOfRating": 2.874285714285714, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.359063302876099, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 6, 
+	"meanOfRating": 3.6350710900473935, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.036994549825603, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 7, 
+	"meanOfRating": 3.965260545905707, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0631588865131654, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 8, 
+	"meanOfRating": 3.7966101694915255, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2320530064668644, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 9, 
+	"meanOfRating": 4.2727272727272725, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9136250564655355, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 10, 
+	"meanOfRating": 4.206521739130435, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5811914950128197, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 11, 
+	"meanOfRating": 3.4640883977900554, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9313940558181896, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 12, 
+	"meanOfRating": 4.392156862745098, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.7689675118089251, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 13, 
+	"meanOfRating": 3.09748427672956, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.4153004741547712, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 14, 
+	"meanOfRating": 4.091836734693878, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0310162877420206, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 15, 
+	"meanOfRating": 2.875, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3350849872112722, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 16, 
+	"meanOfRating": 4.328571428571428, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.0381498456585236, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 17, 
+	"meanOfRating": 3.0357142857142856, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1174634176544298, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 18, 
+	"meanOfRating": 3.88086642599278, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8477376817765219, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 19, 
+	"meanOfRating": 3.55, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8046738469715542, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 20, 
+	"meanOfRating": 3.1041666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1408984641744224, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 21, 
+	"meanOfRating": 2.670391061452514, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.323515448780379, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 22, 
+	"meanOfRating": 3.3515625, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4873941335751428, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 23, 
+	"meanOfRating": 3.6357615894039736, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9523998527846529, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 24, 
+	"meanOfRating": 4.323529411764706, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8124251362901843, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 25, 
+	"meanOfRating": 4.051282051282051, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6180497842663563, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 26, 
+	"meanOfRating": 2.94392523364486, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.851955153276884, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 27, 
+	"meanOfRating": 3.24, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8616263691415208, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 28, 
+	"meanOfRating": 3.721518987341772, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9538291763941521, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 29, 
+	"meanOfRating": 3.6470588235294117, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8705087404087497, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 30, 
+	"meanOfRating": 3.7674418604651163, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9844656041170566, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 31, 
+	"meanOfRating": 3.9166666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9537935951882995, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 32, 
+	"meanOfRating": 3.317073170731707, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8954907195456501, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 33, 
+	"meanOfRating": 3.7083333333333335, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5384519993050036, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 34, 
+	"meanOfRating": 4.05, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.3592277219068187, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 35, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.938083151964686, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 36, 
+	"meanOfRating": 3.8, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2489995996796797, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 37, 
+	"meanOfRating": 3.6491228070175437, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.982142807177432, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 38, 
+	"meanOfRating": 3.71900826446281, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.5914188300047474, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 39, 
+	"meanOfRating": 3.772727272727273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9011012546181366, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 40, 
+	"meanOfRating": 2.8857142857142857, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9493284414763514, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 41, 
+	"meanOfRating": 3.769230769230769, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7994080650317894, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 42, 
+	"meanOfRating": 3.726775956284153, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0618542340101529, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 43, 
+	"meanOfRating": 3.7104072398190047, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0145236346169837, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 44, 
+	"meanOfRating": 3.6490066225165565, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9980024784418172, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 45, 
+	"meanOfRating": 3.6041666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.906908285819955, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 46, 
+	"meanOfRating": 4.111111111111111, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9162456945817021, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 47, 
+	"meanOfRating": 3.64, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8890444308357148, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 48, 
+	"meanOfRating": 3.787878787878788, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.03740865264386, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 49, 
+	"meanOfRating": 2.683720930232558, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2510331047165812, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 50, 
+	"meanOfRating": 3.5416666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3533651474093098, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 51, 
+	"meanOfRating": 3.5652173913043477, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.1731076141940902, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 52, 
+	"meanOfRating": 4.267857142857143, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7194013242315604, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 53, 
+	"meanOfRating": 3.8214285714285716, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8885610931874806, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 54, 
+	"meanOfRating": 3.6923076923076925, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1357556200179542, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 55, 
+	"meanOfRating": 3.2857142857142856, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.4521857792358959, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 56, 
+	"meanOfRating": 3.641711229946524, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9336108168040723, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 57, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0210057934158254, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 58, 
+	"meanOfRating": 3.8376623376623376, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.229881100898693, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 59, 
+	"meanOfRating": 3.9345549738219896, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0601835689433516, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 60, 
+	"meanOfRating": 4.086538461538462, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6295690974950334, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 61, 
+	"meanOfRating": 2.9523809523809526, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2140522651411392, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 62, 
+	"meanOfRating": 3.3017241379310347, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1120021364576265, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 63, 
+	"meanOfRating": 3.118279569892473, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.98209193408864, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 64, 
+	"meanOfRating": 3.585, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9963809512430475, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 65, 
+	"meanOfRating": 3.9375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8852083088177607, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 66, 
+	"meanOfRating": 3.473684210526316, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.019206143738794, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 67, 
+	"meanOfRating": 3.7666666666666666, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8825468196582484, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 68, 
+	"meanOfRating": 3.0294117647058822, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.5808652529854925, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 69, 
+	"meanOfRating": 3.8461538461538463, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0558375345706765, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 70, 
+	"meanOfRating": 3.4656488549618323, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8130398140882041, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 71, 
+	"meanOfRating": 3.789473684210526, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0300203047779435, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 72, 
+	"meanOfRating": 3.8175182481751824, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0478965939274791, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 73, 
+	"meanOfRating": 3.727272727272727, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.148720692183325, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 74, 
+	"meanOfRating": 3.641025641025641, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6975113081402792, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 75, 
+	"meanOfRating": 3.278481012658228, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.349511949855961, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 76, 
+	"meanOfRating": 3.5609756097560976, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1163699991556888, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 77, 
+	"meanOfRating": 3.611111111111111, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1967032904743344, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 78, 
+	"meanOfRating": 3.380952380952381, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.2526615655205626, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 79, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.026910636104941, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 80, 
+	"meanOfRating": 3.7586206896551726, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0053365335940172, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 81, 
+	"meanOfRating": 3.293103448275862, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0987237218175736, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 82, 
+	"meanOfRating": 3.0714285714285716, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.18307221417189, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 83, 
+	"meanOfRating": 3.4193548387096775, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.118010720370642, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 84, 
+	"meanOfRating": 3.8529411764705883, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7908429211616913, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 85, 
+	"meanOfRating": 3.5381944444444446, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8113343371482571, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 86, 
+	"meanOfRating": 3.5217391304347827, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.137104072228002, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 87, 
+	"meanOfRating": 3.7914691943127963, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9257369155050129, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 88, 
+	"meanOfRating": 3.9523809523809526, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.132893071749554, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 89, 
+	"meanOfRating": 4.0394736842105265, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1406460481684122, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 90, 
+	"meanOfRating": 4.223333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9238265830530928, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 91, 
+	"meanOfRating": 3.8877551020408165, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0289944870166718, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 92, 
+	"meanOfRating": 3.2448453608247423, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9735413232346591, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 93, 
+	"meanOfRating": 3.35, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1947803145348521, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 94, 
+	"meanOfRating": 3.6575, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.014984605794593, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 95, 
+	"meanOfRating": 3.41726618705036, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1246056419953439, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 96, 
+	"meanOfRating": 4.267857142857143, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.9352438839409646, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 97, 
+	"meanOfRating": 4.158730158730159, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.1297752158269359, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 98, 
+	"meanOfRating": 3.5925925925925926, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2840693202488678, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 99, 
+	"meanOfRating": 3.551470588235294, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0901959682254145, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 100, 
+	"meanOfRating": 3.0677966101694913, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.039302353678365, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 101, 
+	"meanOfRating": 2.8955223880597014, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8661861569281737, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 102, 
+	"meanOfRating": 2.615740740740741, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.742575851847876, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 103, 
+	"meanOfRating": 3.6206896551724137, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9252695079309478, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 104, 
+	"meanOfRating": 2.6666666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1494874167738076, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 105, 
+	"meanOfRating": 3.391304347826087, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.052497255383496, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 106, 
+	"meanOfRating": 3.765625, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7013867402332326, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 107, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.243163121016122, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 108, 
+	"meanOfRating": 3.5757575757575757, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9544251968499166, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 109, 
+	"meanOfRating": 3.4401709401709404, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.135409849497094, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 110, 
+	"meanOfRating": 3.045112781954887, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8572088089651491, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 111, 
+	"meanOfRating": 3.5416666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9119195261766369, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 112, 
+	"meanOfRating": 3.6956521739130435, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0605487754478662, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 113, 
+	"meanOfRating": 3.7254901960784315, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1039755498242547, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 114, 
+	"meanOfRating": 3.6041666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9069082858199551, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 115, 
+	"meanOfRating": 3.9347826086956523, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.168465621771886, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 116, 
+	"meanOfRating": 3.006993006993007, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9787711969072002, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 117, 
+	"meanOfRating": 3.9186046511627906, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0254337287564659, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 118, 
+	"meanOfRating": 4.661971830985915, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7495287152478918, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 119, 
+	"meanOfRating": 3.9502762430939224, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0097658122123956, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 120, 
+	"meanOfRating": 3.576923076923077, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9676727404160865, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 121, 
+	"meanOfRating": 3.608108108108108, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3235656955643715, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 122, 
+	"meanOfRating": 3.9836065573770494, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9665182277366344, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 123, 
+	"meanOfRating": 3.8518518518518516, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0955703302036324, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 124, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.0, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 125, 
+	"meanOfRating": 3.4395604395604398, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2941864193791035, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 126, 
+	"meanOfRating": 3.533333333333333, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.1661903789690602, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 127, 
+	"meanOfRating": 4.130434782608695, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.4833671399332158, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 128, 
+	"meanOfRating": 3.6630434782608696, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0137872805887609, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 129, 
+	"meanOfRating": 2.6, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.1430952132988161, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 130, 
+	"meanOfRating": 3.9858356940509916, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9798669888202962, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 131, 
+	"meanOfRating": 4.133333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0241527663824812, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 132, 
+	"meanOfRating": 3.772727272727273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6695872664843745, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 133, 
+	"meanOfRating": 3.1923076923076925, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0748606624986248, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 134, 
+	"meanOfRating": 3.64, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0537551897855593, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 135, 
+	"meanOfRating": 3.381818181818182, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.7743832523289768, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 136, 
+	"meanOfRating": 4.3428571428571425, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7148569144683887, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 137, 
+	"meanOfRating": 4.319148936170213, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.0936253000762886, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 138, 
+	"meanOfRating": 4.2745098039215685, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6591269142733965, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 139, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.816496580927726, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 140, 
+	"meanOfRating": 3.4285714285714284, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7911070345636262, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 141, 
+	"meanOfRating": 3.4299065420560746, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3333406119695361, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 142, 
+	"meanOfRating": 3.6363636363636362, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1759762370868034, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 143, 
+	"meanOfRating": 3.9, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.99498743710662, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 144, 
+	"meanOfRating": 3.674757281553398, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9481938319929655, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 145, 
+	"meanOfRating": 3.3354430379746836, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3053481008822292, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 146, 
+	"meanOfRating": 3.6206896551724137, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1865276230403623, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 147, 
+	"meanOfRating": 4.2, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8124038404635961, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 148, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2649110640673518, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 149, 
+	"meanOfRating": 2.888888888888889, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0999438818457408, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 150, 
+	"meanOfRating": 3.84375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0034121473751452, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 151, 
+	"meanOfRating": 3.996742671009772, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0383473819359874, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 152, 
+	"meanOfRating": 4.320754716981132, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9861988185186388, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 153, 
+	"meanOfRating": 2.9565217391304346, 
+	"medianOfRating": 2.5, 
+	"standardDeviationOfRatings": 1.4589531943967406, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 154, 
+	"meanOfRating": 3.9607843137254903, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8847462096218411, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 155, 
+	"meanOfRating": 2.6363636363636362, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 0.8282212344676636, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 156, 
+	"meanOfRating": 3.72972972972973, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7935090949136862, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 157, 
+	"meanOfRating": 3.784313725490196, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2257646751441398, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 158, 
+	"meanOfRating": 3.8034682080924855, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0009184195104448, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 159, 
+	"meanOfRating": 3.4299065420560746, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3333406119695357, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 160, 
+	"meanOfRating": 3.9166666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0048493529988571, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 161, 
+	"meanOfRating": 2.5517241379310347, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.1168368786690792, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 162, 
+	"meanOfRating": 3.5952380952380953, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7257024121013413, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 163, 
+	"meanOfRating": 3.3043478260869565, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8564224175474874, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 164, 
+	"meanOfRating": 4.126984126984127, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9510572812028726, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 165, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8563488385776752, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 166, 
+	"meanOfRating": 3.55, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3955285736952863, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 167, 
+	"meanOfRating": 3.3768115942028984, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4456476335695658, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 168, 
+	"meanOfRating": 3.3333333333333335, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3900960937138311, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 169, 
+	"meanOfRating": 3.972972972972973, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9722219323570243, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 170, 
+	"meanOfRating": 3.772727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9011012546181368, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 171, 
+	"meanOfRating": 3.4642857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7310531960878116, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 172, 
+	"meanOfRating": 3.185185185185185, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8622553130979863, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 173, 
+	"meanOfRating": 4.209302325581396, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8228746982769366, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 174, 
+	"meanOfRating": 3.5819209039548023, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.5713935427066659, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 175, 
+	"meanOfRating": 3.736842105263158, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1164843913471802, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 176, 
+	"meanOfRating": 3.6984126984126986, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.033332114206971, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 177, 
+	"meanOfRating": 3.617391304347826, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9831856713114832, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 178, 
+	"meanOfRating": 3.681318681318681, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9439895178430362, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 179, 
+	"meanOfRating": 3.0476190476190474, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.5728709109441665, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 180, 
+	"meanOfRating": 3.9365079365079363, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2955726303118644, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 181, 
+	"meanOfRating": 1.4919540229885058, 
+	"medianOfRating": 1.0, 
+	"standardDeviationOfRatings": 0.8451645273826196, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 182, 
+	"meanOfRating": 3.857142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9147320339189785, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 183, 
+	"meanOfRating": 3.188679245283019, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9915987429034651, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 184, 
+	"meanOfRating": 3.6613545816733066, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8331171711622449, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 185, 
+	"meanOfRating": 4.041666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.705878097754059, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 186, 
+	"meanOfRating": 3.4130434782608696, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.217197189492993, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 187, 
+	"meanOfRating": 4.071428571428571, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9035079029052513, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 188, 
+	"meanOfRating": 3.767857142857143, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9726817022425943, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 189, 
+	"meanOfRating": 3.978609625668449, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.069545454211237, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 190, 
+	"meanOfRating": 3.3220338983050848, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9818812446074738, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 191, 
+	"meanOfRating": 3.6296296296296298, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.7768954430890009, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 192, 
+	"meanOfRating": 3.5142857142857142, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0789261479142407, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 193, 
+	"meanOfRating": 3.165289256198347, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1085476123707252, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 194, 
+	"meanOfRating": 2.963934426229508, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0220571968989143, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 195, 
+	"meanOfRating": 3.2916666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0197698542100346, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 196, 
+	"meanOfRating": 3.6153846153846154, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0029542161850227, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 197, 
+	"meanOfRating": 3.3389830508474576, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2228082363001866, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 198, 
+	"meanOfRating": 3.276243093922652, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9696722841740912, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 199, 
+	"meanOfRating": 2.95, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.548386256720202, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 200, 
+	"meanOfRating": 4.032407407407407, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8573569099600477, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 201, 
+	"meanOfRating": 3.0310880829015545, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0525406506434525, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 202, 
+	"meanOfRating": 2.8, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2489995996796797, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 203, 
+	"meanOfRating": 3.4186046511627906, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.039511471564047, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 204, 
+	"meanOfRating": 3.4523809523809526, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3309928437498755, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 205, 
+	"meanOfRating": 2.8636363636363638, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.013340764073089, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 206, 
+	"meanOfRating": 2.171875, 
+	"medianOfRating": 1.0, 
+	"standardDeviationOfRatings": 1.4529569795334616, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 207, 
+	"meanOfRating": 3.2304347826086954, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8256406116826707, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 208, 
+	"meanOfRating": 3.787878787878788, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0077750998979327, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 209, 
+	"meanOfRating": 3.1818181818181817, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2174126925212525, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 210, 
+	"meanOfRating": 4.0606060606060606, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.814244172275418, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 211, 
+	"meanOfRating": 3.189189189189189, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1110705292483498, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 212, 
+	"meanOfRating": 3.92, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.26237870704476, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 213, 
+	"meanOfRating": 4.23015873015873, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8652249768233822, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 214, 
+	"meanOfRating": 3.8984375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8276457929535739, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 215, 
+	"meanOfRating": 3.774193548387097, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8814581304051267, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 216, 
+	"meanOfRating": 3.801526717557252, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9993879602475207, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 217, 
+	"meanOfRating": 2.960526315789474, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3711384961495567, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 218, 
+	"meanOfRating": 3.6037735849056602, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8089038154802267, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 219, 
+	"meanOfRating": 3.7142857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.5551100755055174, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 220, 
+	"meanOfRating": 3.772727272727273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.901101254618137, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 221, 
+	"meanOfRating": 3.6164383561643834, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8933565608591988, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 222, 
+	"meanOfRating": 3.049095607235142, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1900396096403694, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 223, 
+	"meanOfRating": 3.0285714285714285, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2906782481068069, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 224, 
+	"meanOfRating": 2.99290780141844, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0947745251890766, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 225, 
+	"meanOfRating": 4.518518518518518, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8331275466075553, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 226, 
+	"meanOfRating": 3.8, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9165151389911681, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 227, 
+	"meanOfRating": 3.4482758620689653, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.053277541331122, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 228, 
+	"meanOfRating": 3.142857142857143, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.456862718169367, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 229, 
+	"meanOfRating": 2.7333333333333334, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.436043948569201, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 230, 
+	"meanOfRating": 3.8496240601503757, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1338684903488916, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 231, 
+	"meanOfRating": 3.6666666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8908708063747479, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 232, 
+	"meanOfRating": 3.903225806451613, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8927969356837447, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 233, 
+	"meanOfRating": 4.345454545454546, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7912747326177793, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 234, 
+	"meanOfRating": 3.122916666666667, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9194064170551678, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 235, 
+	"meanOfRating": 3.978723404255319, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8248626372331972, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 236, 
+	"meanOfRating": 3.475806451612903, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.167183746469635, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 237, 
+	"meanOfRating": 4.145833333333333, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6766825737046547, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 238, 
+	"meanOfRating": 3.2758620689655173, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8261481759110991, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 239, 
+	"meanOfRating": 4.213836477987422, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.250734525694281, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 240, 
+	"meanOfRating": 3.75, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.299038105676658, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 241, 
+	"meanOfRating": 3.4347826086956523, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0140785904078784, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 242, 
+	"meanOfRating": 4.45, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7399324293474372, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 243, 
+	"meanOfRating": 3.6419753086419755, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8211500813983157, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 244, 
+	"meanOfRating": 3.6512605042016806, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0691523027255168, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 245, 
+	"meanOfRating": 3.272727272727273, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.094690416253845, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 246, 
+	"meanOfRating": 2.928205128205128, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3184973416634949, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 247, 
+	"meanOfRating": 3.923076923076923, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8736782070461959, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 248, 
+	"meanOfRating": 3.5714285714285716, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1780301787479033, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 249, 
+	"meanOfRating": 4.105590062111801, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8604670440024303, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 250, 
+	"meanOfRating": 3.7868852459016393, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0575994174615941, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 251, 
+	"meanOfRating": 3.792207792207792, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9164820137338886, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 252, 
+	"meanOfRating": 4.428571428571429, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.659828879073858, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 253, 
+	"meanOfRating": 3.979381443298969, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9522559372169482, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 254, 
+	"meanOfRating": 3.050314465408805, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0327878990904829, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 255, 
+	"meanOfRating": 2.5421686746987953, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.310763640381605, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 256, 
+	"meanOfRating": 3.9903381642512077, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9427595334012017, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 257, 
+	"meanOfRating": 4.035087719298246, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9544891585077505, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 258, 
+	"meanOfRating": 3.739130434782609, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.358304291462027, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 259, 
+	"meanOfRating": 3.869565217391304, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7692089570849622, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 260, 
+	"meanOfRating": 4.041666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0984521938720055, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 261, 
+	"meanOfRating": 4.111111111111111, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8748897637790899, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 262, 
+	"meanOfRating": 3.16875, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8232699663536865, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 263, 
+	"meanOfRating": 4.048780487804878, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9947313118167679, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 264, 
+	"meanOfRating": 4.216666666666667, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.0015266125049078, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 265, 
+	"meanOfRating": 3.5652173913043477, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.116130230695081, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 266, 
+	"meanOfRating": 3.260869565217391, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0720720005163438, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 267, 
+	"meanOfRating": 3.9351351351351354, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8859919517102018, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 268, 
+	"meanOfRating": 2.942073170731707, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0958616587570948, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 269, 
+	"meanOfRating": 3.0092879256965945, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.404296961951591, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 270, 
+	"meanOfRating": 4.333333333333333, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9878488804609837, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 271, 
+	"meanOfRating": 3.58273381294964, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.002868408243259, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 272, 
+	"meanOfRating": 4.333333333333333, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.8782037520219099, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 273, 
+	"meanOfRating": 3.6363636363636362, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7100226978096958, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 274, 
+	"meanOfRating": 4.056338028169014, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9770222645647682, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 275, 
+	"meanOfRating": 3.1157894736842104, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.5958303872877851, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 276, 
+	"meanOfRating": 3.465250965250965, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0161576100033871, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 277, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8333333333333334, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 278, 
+	"meanOfRating": 4.260869565217392, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.8952721861727826, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 279, 
+	"meanOfRating": 3.2672811059907834, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.198112370680089, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 280, 
+	"meanOfRating": 3.5775193798449614, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.9979622889892052, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 281, 
+	"meanOfRating": 3.1923076923076925, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2095527071935686, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 282, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9885710532241612, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 283, 
+	"meanOfRating": 4.132075471698113, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8250268343047338, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 284, 
+	"meanOfRating": 3.5531914893617023, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7938194938798993, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 285, 
+	"meanOfRating": 3.9375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8267972847076845, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 286, 
+	"meanOfRating": 3.7118055555555554, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1533162647928796, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 287, 
+	"meanOfRating": 4.112903225806452, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0176639712482165, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 288, 
+	"meanOfRating": 3.88, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1995554732205316, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 289, 
+	"meanOfRating": 2.925925925925926, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0514866345613623, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 290, 
+	"meanOfRating": 3.3533333333333335, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9102136501332465, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 291, 
+	"meanOfRating": 3.685810810810811, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0295964924087606, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 292, 
+	"meanOfRating": 4.225806451612903, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8015982993412372, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 293, 
+	"meanOfRating": 3.0309278350515463, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.042435770202849, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 294, 
+	"meanOfRating": 3.466666666666667, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9498537899183345, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 295, 
+	"meanOfRating": 4.239795918367347, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.788079530317716, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 296, 
+	"meanOfRating": 4.1768707482993195, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.1820694425318101, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 297, 
+	"meanOfRating": 3.4375, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.063724784268312, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 298, 
+	"meanOfRating": 4.031496062992126, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8126655651931123, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 299, 
+	"meanOfRating": 3.4642857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9056230237932836, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 300, 
+	"meanOfRating": 3.75, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9937303457175896, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 301, 
+	"meanOfRating": 3.5272727272727273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.969621209161702, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 302, 
+	"meanOfRating": 2.4285714285714284, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 0.8491692619108099, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 303, 
+	"meanOfRating": 3.365702479338843, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2300227280345095, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 304, 
+	"meanOfRating": 3.3846153846153846, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0405960968052832, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 305, 
+	"meanOfRating": 3.40990990990991, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0774055385909607, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 306, 
+	"meanOfRating": 3.78125, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9916644782889019, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 307, 
+	"meanOfRating": 3.794642857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0276393966717297, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 308, 
+	"meanOfRating": 3.7581863979848866, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7657430730478587, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 309, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.02469507659596, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 310, 
+	"meanOfRating": 3.857142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3899542399358504, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 311, 
+	"meanOfRating": 3.795918367346939, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8684866461613557, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 312, 
+	"meanOfRating": 4.381165919282512, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9147542414477106, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 313, 
+	"meanOfRating": 3.595419847328244, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9944780821060283, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 314, 
+	"meanOfRating": 3.6775510204081634, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1455798471396164, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 315, 
+	"meanOfRating": 4.011494252873563, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.928405540519939, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 316, 
+	"meanOfRating": 3.36, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4295920163925562, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 317, 
+	"meanOfRating": 3.5454545454545454, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8381404052084444, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 318, 
+	"meanOfRating": 3.706896551724138, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.028478745297314, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 319, 
+	"meanOfRating": 3.4782608695652173, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7728864710709207, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 320, 
+	"meanOfRating": 3.720779220779221, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8412788135723062, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 321, 
+	"meanOfRating": 3.736, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7391238055968706, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 322, 
+	"meanOfRating": 4.176470588235294, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8332756612108145, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 323, 
+	"meanOfRating": 3.6179775280898876, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9540642568698325, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 324, 
+	"meanOfRating": 4.348484848484849, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8070226657930775, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 325, 
+	"meanOfRating": 3.408450704225352, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.114279465144703, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 326, 
+	"meanOfRating": 3.3262032085561497, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2084851618922632, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 327, 
+	"meanOfRating": 3.313380281690141, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9175694219612117, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 328, 
+	"meanOfRating": 3.431095406360424, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9042623068112141, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 329, 
+	"meanOfRating": 3.4, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8190050248742253, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 330, 
+	"meanOfRating": 4.496598639455782, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7319171513639602, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 331, 
+	"meanOfRating": 3.642857142857143, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0560805473300696, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 332, 
+	"meanOfRating": 4.1530054644808745, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9105209191624514, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 333, 
+	"meanOfRating": 3.8461538461538463, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9483713850721501, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 334, 
+	"meanOfRating": 3.5195195195195197, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9089530047996464, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 335, 
+	"meanOfRating": 3.5454545454545454, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.195722403451446, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 336, 
+	"meanOfRating": 2.9615384615384617, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2794460709700544, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 337, 
+	"meanOfRating": 3.9411764705882355, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1098801331831296, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 338, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.938083151964686, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 339, 
+	"meanOfRating": 4.003937007874016, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9157331364182211, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 340, 
+	"meanOfRating": 4.159090909090909, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.1666420697918725, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 341, 
+	"meanOfRating": 3.8095238095238093, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0962728031639368, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 342, 
+	"meanOfRating": 3.4378109452736316, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.284179736679841, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 343, 
+	"meanOfRating": 3.9873417721518987, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0888038288445558, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 344, 
+	"meanOfRating": 3.668421052631579, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.021120453526135, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 345, 
+	"meanOfRating": 3.646551724137931, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9168378033597006, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 346, 
+	"meanOfRating": 3.290155440414508, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1466357533967828, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 347, 
+	"meanOfRating": 3.5728643216080402, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3122795911351997, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 348, 
+	"meanOfRating": 3.896551724137931, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6870640981093545, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 349, 
+	"meanOfRating": 3.1951219512195124, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0869404856174236, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 350, 
+	"meanOfRating": 4.32, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.8109253973085315, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 351, 
+	"meanOfRating": 4.159090909090909, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9279298028451636, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 352, 
+	"meanOfRating": 3.738095238095238, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1763446978129166, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 353, 
+	"meanOfRating": 3.36, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.323026832683298, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 354, 
+	"meanOfRating": 3.742489270386266, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8655280861477737, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 355, 
+	"meanOfRating": 4.076923076923077, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.4741856925360753, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 356, 
+	"meanOfRating": 3.5833333333333335, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.114924013354971, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 357, 
+	"meanOfRating": 4.131578947368421, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8935750971762979, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 358, 
+	"meanOfRating": 3.697674418604651, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1917328349133913, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 359, 
+	"meanOfRating": 3.925925925925926, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7662281802065631, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 360, 
+	"meanOfRating": 3.9607843137254903, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8508538805391033, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 361, 
+	"meanOfRating": 3.7768595041322315, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9576797313633695, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 362, 
+	"meanOfRating": 3.36, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.4934523762075573, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 363, 
+	"meanOfRating": 3.054662379421222, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2781502152834245, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 364, 
+	"meanOfRating": 3.45, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0712142642814275, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 365, 
+	"meanOfRating": 3.3793103448275863, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1719065839976848, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 366, 
+	"meanOfRating": 4.393939393939394, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.0713739108887084, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 367, 
+	"meanOfRating": 4.155172413793103, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7381646423657804, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 368, 
+	"meanOfRating": 3.2888888888888888, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0877545111573705, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 369, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 370, 
+	"meanOfRating": 3.6933333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9377040518675862, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 371, 
+	"meanOfRating": 4.098039215686274, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9342062156526745, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 372, 
+	"meanOfRating": 4.303030303030303, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6956509262575146, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 373, 
+	"meanOfRating": 3.7339055793991416, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9482356462768939, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 374, 
+	"meanOfRating": 3.31021897810219, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3022038966862826, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 375, 
+	"meanOfRating": 3.6785714285714284, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8474150369789052, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 376, 
+	"meanOfRating": 3.7333333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6798692684790382, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 377, 
+	"meanOfRating": 3.909090909090909, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9330184435357972, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 378, 
+	"meanOfRating": 3.424, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8026356583157763, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 379, 
+	"meanOfRating": 3.989795918367347, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9421523118683374, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 380, 
+	"meanOfRating": 3.197530864197531, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.915163792752925, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 381, 
+	"meanOfRating": 3.811023622047244, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1064042878897826, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 382, 
+	"meanOfRating": 3.4716981132075473, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0389358413536756, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 383, 
+	"meanOfRating": 4.380281690140845, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8453051317252761, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 384, 
+	"meanOfRating": 4.136363636363637, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5473452081269224, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 385, 
+	"meanOfRating": 3.295373665480427, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.214508945134546, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 386, 
+	"meanOfRating": 3.652173913043478, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8134037797334654, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 387, 
+	"meanOfRating": 3.361842105263158, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2033360541759643, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 388, 
+	"meanOfRating": 4.173076923076923, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.848554287419623, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 389, 
+	"meanOfRating": 3.7047970479704797, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0315748785367866, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 390, 
+	"meanOfRating": 3.838709677419355, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.166654278711298, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 391, 
+	"meanOfRating": 3.768595041322314, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0103622669065946, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 392, 
+	"meanOfRating": 4.045045045045045, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.118133800655871, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 393, 
+	"meanOfRating": 3.3370535714285716, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8157283537612869, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 394, 
+	"meanOfRating": 3.859060402684564, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9342127592647148, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 395, 
+	"meanOfRating": 3.8947368421052633, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0871532199880471, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 396, 
+	"meanOfRating": 3.4074074074074074, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7821745215534399, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 397, 
+	"meanOfRating": 3.7058823529411766, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.325379969891858, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 398, 
+	"meanOfRating": 3.7093023255813953, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9384088347609388, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 399, 
+	"meanOfRating": 2.93730407523511, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7932830901659674, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 400, 
+	"meanOfRating": 3.590909090909091, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7780564894828952, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 401, 
+	"meanOfRating": 3.1176470588235294, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1081467569368464, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 402, 
+	"meanOfRating": 3.8970588235294117, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9872675583821795, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 403, 
+	"meanOfRating": 3.68, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2237646832622684, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 404, 
+	"meanOfRating": 3.25, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0897247358851685, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 405, 
+	"meanOfRating": 1.8344640434192674, 
+	"medianOfRating": 1.0, 
+	"standardDeviationOfRatings": 1.3442700214235832, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 406, 
+	"meanOfRating": 3.5321637426900585, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.072170830128206, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 407, 
+	"meanOfRating": 3.4690265486725664, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8577682140471751, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 408, 
+	"meanOfRating": 3.740740740740741, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0747124539664377, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 409, 
+	"meanOfRating": 3.5911330049261085, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1598030226185856, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 410, 
+	"meanOfRating": 3.0357142857142856, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.017073633278439, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 411, 
+	"meanOfRating": 3.7758620689655173, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7666115198419212, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 412, 
+	"meanOfRating": 3.9411764705882355, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7252251768198795, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 413, 
+	"meanOfRating": 3.66, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9921693403849973, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 414, 
+	"meanOfRating": 3.88, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1070682002478436, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 415, 
+	"meanOfRating": 4.166666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0274023338281628, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 416, 
+	"meanOfRating": 3.845841784989858, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0923707174300474, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 417, 
+	"meanOfRating": 3.2465753424657535, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9418841786373455, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 418, 
+	"meanOfRating": 2.9, 
+	"medianOfRating": 2.5, 
+	"standardDeviationOfRatings": 1.4798648586948744, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 419, 
+	"meanOfRating": 4.21875, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8921314014762624, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 420, 
+	"meanOfRating": 4.166666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8333333333333334, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 421, 
+	"meanOfRating": 3.8548387096774195, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0293557990715392, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 422, 
+	"meanOfRating": 3.463917525773196, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.9201283602756568, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 423, 
+	"meanOfRating": 3.578125, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9152302903504669, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 424, 
+	"meanOfRating": 3.3636363636363638, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.3158286205572842, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 425, 
+	"meanOfRating": 2.9558823529411766, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0905182730272003, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 426, 
+	"meanOfRating": 3.8316831683168315, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8092204650179227, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 427, 
+	"meanOfRating": 4.548387096774194, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.755141929723847, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 428, 
+	"meanOfRating": 3.9272727272727272, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8057643565876483, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 429, 
+	"meanOfRating": 3.393719806763285, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9126376165139655, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 430, 
+	"meanOfRating": 3.5538461538461537, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9771350466584872, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 431, 
+	"meanOfRating": 3.380952380952381, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7221786137191952, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 432, 
+	"meanOfRating": 3.7096774193548385, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.06841904268898, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 433, 
+	"meanOfRating": 3.5121951219512195, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3089178404876818, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 434, 
+	"meanOfRating": 3.7045454545454546, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4074403823082755, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 435, 
+	"meanOfRating": 3.316622691292876, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0651659811506702, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 436, 
+	"meanOfRating": 3.7517241379310344, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.898512444852763, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 437, 
+	"meanOfRating": 3.581749049429658, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1601632169119658, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 438, 
+	"meanOfRating": 4.0606060606060606, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9191364174607942, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 439, 
+	"meanOfRating": 3.7096774193548385, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8498025724077092, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 440, 
+	"meanOfRating": 4.176470588235294, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.1666254729916483, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 441, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7416198487095663, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 442, 
+	"meanOfRating": 3.125874125874126, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9150423802110363, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 443, 
+	"meanOfRating": 3.375, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.46664299223317, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 444, 
+	"meanOfRating": 3.7916666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0793194872490517, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 445, 
+	"meanOfRating": 1.9851851851851852, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.0953449325495606, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 446, 
+	"meanOfRating": 2.75, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8936504412303007, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 447, 
+	"meanOfRating": 3.597122302158273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9797916711501132, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 448, 
+	"meanOfRating": 3.3421052631578947, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.400682461281186, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 449, 
+	"meanOfRating": 3.7466666666666666, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1441833574893299, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 450, 
+	"meanOfRating": 3.8648148148148147, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8618793864674777, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 451, 
+	"meanOfRating": 2.7346938775510203, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3594042843576235, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 452, 
+	"meanOfRating": 3.412621359223301, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2383969917027198, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 453, 
+	"meanOfRating": 3.2884615384615383, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0500892232214547, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 454, 
+	"meanOfRating": 2.9788135593220337, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9272112090871313, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 455, 
+	"meanOfRating": 3.502645502645503, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.7462381042228142, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 456, 
+	"meanOfRating": 3.456221198156682, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8419696607341147, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 457, 
+	"meanOfRating": 4.025270758122744, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9439587595262983, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 458, 
+	"meanOfRating": 3.6885245901639343, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.104501226698203, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 459, 
+	"meanOfRating": 3.3813559322033897, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0408559997883071, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 460, 
+	"meanOfRating": 3.411764705882353, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8784226190040048, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 461, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.103354568734741, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 462, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 1.3026778945578592, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 463, 
+	"meanOfRating": 2.8646616541353382, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2848565929587021, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 464, 
+	"meanOfRating": 4.037735849056604, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8679245283018867, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 465, 
+	"meanOfRating": 3.4375, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8037995707886388, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 466, 
+	"meanOfRating": 3.4653465346534653, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1219180573635874, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 467, 
+	"meanOfRating": 3.6818181818181817, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9717071966559978, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 468, 
+	"meanOfRating": 3.993006993006993, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8967423833236604, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 469, 
+	"meanOfRating": 4.534883720930233, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.5434102997929265, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 470, 
+	"meanOfRating": 3.5789473684210527, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7935566931858693, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 471, 
+	"meanOfRating": 3.3870967741935485, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.4957449186283396, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 472, 
+	"meanOfRating": 4.228136882129277, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9193976104244322, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 473, 
+	"meanOfRating": 3.914285714285714, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9062143729802117, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 474, 
+	"meanOfRating": 4.08256880733945, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8179384883032544, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 475, 
+	"meanOfRating": 3.6, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3190905958272918, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 476, 
+	"meanOfRating": 3.3734939759036147, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.014483587229922, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 477, 
+	"meanOfRating": 4.457142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.49815987926179117, 
+	"maxRating": 5, 
+	"minRating": 4
+},
+{
+	"userID": 478, 
+	"meanOfRating": 3.415929203539823, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2460604377223794, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 479, 
+	"meanOfRating": 3.4207920792079207, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.184120748432335, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 480, 
+	"meanOfRating": 3.7333333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8919392106839762, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 481, 
+	"meanOfRating": 3.982142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8962435779521152, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 482, 
+	"meanOfRating": 3.423076923076923, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.7428156890703063, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 483, 
+	"meanOfRating": 3.0508474576271185, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9283433178053662, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 484, 
+	"meanOfRating": 3.9928057553956835, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9854802202110954, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 485, 
+	"meanOfRating": 3.0384615384615383, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0912508430085468, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 486, 
+	"meanOfRating": 3.2222222222222223, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9884696810755724, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 487, 
+	"meanOfRating": 3.645021645021645, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1526212830077007, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 488, 
+	"meanOfRating": 3.357142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9093923433465293, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 489, 
+	"meanOfRating": 3.7247706422018347, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0993873158858896, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 490, 
+	"meanOfRating": 2.789473684210526, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2101448674372306, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 491, 
+	"meanOfRating": 3.8484848484848486, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2090871117127273, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 492, 
+	"meanOfRating": 3.5272727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0243320742547832, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 493, 
+	"meanOfRating": 3.7555555555555555, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1830072581516589, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 494, 
+	"meanOfRating": 3.872340425531915, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0840629108814464, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 495, 
+	"meanOfRating": 3.9530516431924885, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1290664980227665, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 496, 
+	"meanOfRating": 3.0310077519379846, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2755177364756396, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 497, 
+	"meanOfRating": 3.1792114695340503, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9099990675549537, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 498, 
+	"meanOfRating": 3.2885906040268456, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9217382325300869, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 499, 
+	"meanOfRating": 3.8627450980392157, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0197963626624187, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 500, 
+	"meanOfRating": 3.3422222222222224, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0124752702360234, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 501, 
+	"meanOfRating": 3.767123287671233, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5856865294912863, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 502, 
+	"meanOfRating": 3.108108108108108, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1097548739269087, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 503, 
+	"meanOfRating": 4.01875, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.2372948062204085, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 504, 
+	"meanOfRating": 3.6215139442231075, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8206591090772916, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 505, 
+	"meanOfRating": 3.3660714285714284, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9909909877264783, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 506, 
+	"meanOfRating": 3.6735537190082646, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0818005036784257, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 507, 
+	"meanOfRating": 4.724137931034483, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7609681548522038, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 508, 
+	"meanOfRating": 3.8275862068965516, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9732856611501861, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 509, 
+	"meanOfRating": 2.515151515151515, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.3054944986992734, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 510, 
+	"meanOfRating": 2.7666666666666666, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.085766498326822, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 511, 
+	"meanOfRating": 3.75, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0897247358851685, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 512, 
+	"meanOfRating": 4.333333333333333, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.8357108940373449, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 513, 
+	"meanOfRating": 4.363636363636363, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.7100226978096957, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 514, 
+	"meanOfRating": 3.8402061855670104, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.88529333409013, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 515, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9219544457292888, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 516, 
+	"meanOfRating": 4.095238095238095, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7499055118106486, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 517, 
+	"meanOfRating": 3.2972972972972974, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2272770313235384, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 518, 
+	"meanOfRating": 3.643835616438356, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0900529459768635, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 519, 
+	"meanOfRating": 4.122448979591836, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.3943421104113245, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 520, 
+	"meanOfRating": 3.4347826086956523, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2794729538749705, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 521, 
+	"meanOfRating": 3.14, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8643301838225163, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 522, 
+	"meanOfRating": 4.333333333333333, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.7888106377466155, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 523, 
+	"meanOfRating": 4.36, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.71442284397967, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 524, 
+	"meanOfRating": 3.4934640522875817, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.057940606621719, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 525, 
+	"meanOfRating": 3.2962962962962963, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8950404424884867, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 526, 
+	"meanOfRating": 3.235294117647059, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.26162415232513, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 527, 
+	"meanOfRating": 3.832116788321168, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9480625119191631, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 528, 
+	"meanOfRating": 3.7169811320754715, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0706612044612158, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 529, 
+	"meanOfRating": 3.604651162790698, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.866415628381263, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 530, 
+	"meanOfRating": 3.888888888888889, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7665861471404594, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 531, 
+	"meanOfRating": 3.2333333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.6265163865007803, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 532, 
+	"meanOfRating": 4.12043795620438, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9722904469878594, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 533, 
+	"meanOfRating": 3.3846153846153846, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0552769624395388, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 534, 
+	"meanOfRating": 4.075, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8481597726843685, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 535, 
+	"meanOfRating": 3.9357798165137616, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8434880546327995, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 536, 
+	"meanOfRating": 3.871165644171779, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9792149056554006, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 537, 
+	"meanOfRating": 2.8653061224489798, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9721742978873271, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 538, 
+	"meanOfRating": 3.617283950617284, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.937133813054239, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 539, 
+	"meanOfRating": 3.982142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8962435779521144, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 540, 
+	"meanOfRating": 3.7142857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.602338601936834, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 541, 
+	"meanOfRating": 3.6240601503759398, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1145079075902415, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 542, 
+	"meanOfRating": 3.488888888888889, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.79690760342405, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 543, 
+	"meanOfRating": 3.532994923857868, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7232032979228713, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 544, 
+	"meanOfRating": 2.806451612903226, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9973951505638908, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 545, 
+	"meanOfRating": 3.506172839506173, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8258696395222008, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 546, 
+	"meanOfRating": 3.8983050847457625, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0999986942093525, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 547, 
+	"meanOfRating": 3.652173913043478, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0047147833296821, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 548, 
+	"meanOfRating": 3.670967741935484, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2080892800769485, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 549, 
+	"meanOfRating": 3.72, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8255906976220118, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 550, 
+	"meanOfRating": 3.675, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1913752557443857, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 551, 
+	"meanOfRating": 3.802395209580838, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3436010285977402, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 552, 
+	"meanOfRating": 3.0952380952380953, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.5481364015819685, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 553, 
+	"meanOfRating": 4.17, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7753063910480806, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 554, 
+	"meanOfRating": 3.5701754385964914, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7832601486411581, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 555, 
+	"meanOfRating": 4.019230769230769, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6931085111900039, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 556, 
+	"meanOfRating": 4.204545454545454, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.178973849940267, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 557, 
+	"meanOfRating": 3.7547169811320753, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0623160951139052, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 558, 
+	"meanOfRating": 4.2, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8124038404635961, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 559, 
+	"meanOfRating": 3.5789473684210527, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.091391650175143, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 560, 
+	"meanOfRating": 3.396039603960396, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9342674148186496, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 561, 
+	"meanOfRating": 3.0252100840336134, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0080531604791947, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 562, 
+	"meanOfRating": 3.5416666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4523687548277815, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 563, 
+	"meanOfRating": 3.7666666666666666, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0546194679704253, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 564, 
+	"meanOfRating": 3.411764705882353, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.6470588235294118, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 565, 
+	"meanOfRating": 4.542857142857143, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.6904597699196898, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 566, 
+	"meanOfRating": 3.442953020134228, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1075249044153708, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 567, 
+	"meanOfRating": 3.9548387096774196, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9859787047616678, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 568, 
+	"meanOfRating": 3.3703703703703702, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1379475182027567, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 569, 
+	"meanOfRating": 3.4857142857142858, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.906214372980212, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 570, 
+	"meanOfRating": 2.6818181818181817, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2572106078126664, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 571, 
+	"meanOfRating": 3.45, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7399324293474372, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 572, 
+	"meanOfRating": 3.25, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.1346805717910218, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 573, 
+	"meanOfRating": 3.7450980392156863, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6212933144217592, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 574, 
+	"meanOfRating": 3.5217391304347827, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1747179205309823, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 575, 
+	"meanOfRating": 3.1538461538461537, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.4329181546305507, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 576, 
+	"meanOfRating": 3.5277777777777777, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8655798028268269, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 577, 
+	"meanOfRating": 3.8031914893617023, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8370353112431952, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 578, 
+	"meanOfRating": 2.6666666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0671873729054746, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 579, 
+	"meanOfRating": 3.472972972972973, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9037904112003221, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 580, 
+	"meanOfRating": 3.5531914893617023, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1449892806020179, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 581, 
+	"meanOfRating": 4.035714285714286, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9813308331452921, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 582, 
+	"meanOfRating": 3.274193548387097, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1383258057157346, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 583, 
+	"meanOfRating": 4.444444444444445, 
+	"medianOfRating": 4.5, 
+	"standardDeviationOfRatings": 0.6849348892187751, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 584, 
+	"meanOfRating": 3.5416666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.911919526176637, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 585, 
+	"meanOfRating": 3.7375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9319837713179344, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 586, 
+	"meanOfRating": 3.325301204819277, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8657949023239359, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 587, 
+	"meanOfRating": 2.9693877551020407, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.044461404340143, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 588, 
+	"meanOfRating": 3.7422222222222223, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1907959782130597, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 589, 
+	"meanOfRating": 3.441860465116279, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.467513726910093, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 590, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1726039399558574, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 591, 
+	"meanOfRating": 3.6547619047619047, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7791027748550563, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 592, 
+	"meanOfRating": 3.813888888888889, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3442579071694742, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 593, 
+	"meanOfRating": 3.608974358974359, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0775906050829556, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 594, 
+	"meanOfRating": 3.48, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.64, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 595, 
+	"meanOfRating": 3.1979166666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0667297344636495, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 596, 
+	"meanOfRating": 3.6, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8602325267042626, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 597, 
+	"meanOfRating": 3.6341463414634148, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1843717602125838, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 598, 
+	"meanOfRating": 3.68, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0087616170334794, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 599, 
+	"meanOfRating": 3.893617021276596, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0765200545254057, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 600, 
+	"meanOfRating": 3.5842696629213484, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0034657780569043, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 601, 
+	"meanOfRating": 3.081081081081081, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.312690210224962, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 602, 
+	"meanOfRating": 3.793103448275862, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7601864718982276, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 603, 
+	"meanOfRating": 3.7872340425531914, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0903087638569322, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 604, 
+	"meanOfRating": 3.2962962962962963, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2417077492029787, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 605, 
+	"meanOfRating": 3.7555555555555555, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1861338795628904, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 606, 
+	"meanOfRating": 3.9661016949152543, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.882333226089515, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 607, 
+	"meanOfRating": 3.8378378378378377, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6783729944870882, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 608, 
+	"meanOfRating": 3.6748466257668713, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2328998963380833, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 609, 
+	"meanOfRating": 2.392857142857143, 
+	"medianOfRating": 1.0, 
+	"standardDeviationOfRatings": 1.718373103388487, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 610, 
+	"meanOfRating": 3.7333333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0624918300339479, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 611, 
+	"meanOfRating": 3.8333333333333335, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.089269450828369, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 612, 
+	"meanOfRating": 3.3703703703703702, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9486109981381999, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 613, 
+	"meanOfRating": 4.321428571428571, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8474150369789053, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 614, 
+	"meanOfRating": 3.128205128205128, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0902713654086817, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 615, 
+	"meanOfRating": 3.8640776699029127, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.088764719912714, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 616, 
+	"meanOfRating": 3.627906976744186, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.778288396775884, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 617, 
+	"meanOfRating": 2.6203703703703702, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.331370726347075, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 618, 
+	"meanOfRating": 3.287037037037037, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9770602726577492, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 619, 
+	"meanOfRating": 3.50561797752809, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2642321958683327, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 620, 
+	"meanOfRating": 3.827272727272727, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.007779655832932, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 621, 
+	"meanOfRating": 3.5497076023391814, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0494428635520543, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 622, 
+	"meanOfRating": 3.3903508771929824, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.139903758498751, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 623, 
+	"meanOfRating": 3.7333333333333334, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0413666234542205, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 624, 
+	"meanOfRating": 3.5319148936170213, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7490248174487049, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 625, 
+	"meanOfRating": 3.4339622641509435, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7270886365282146, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 626, 
+	"meanOfRating": 2.34375, 
+	"medianOfRating": 1.5, 
+	"standardDeviationOfRatings": 1.5126420387851185, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 627, 
+	"meanOfRating": 3.292817679558011, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.080926201434262, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 628, 
+	"meanOfRating": 4.703703703703703, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.710493559009292, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 629, 
+	"meanOfRating": 4.082644628099174, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9840612160920671, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 630, 
+	"meanOfRating": 3.324074074074074, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.052586793322049, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 631, 
+	"meanOfRating": 3.1, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.888819441731559, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 632, 
+	"meanOfRating": 3.6610169491525424, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0186426577163876, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 633, 
+	"meanOfRating": 3.310344827586207, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7475683927130621, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 634, 
+	"meanOfRating": 3.3703703703703702, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9486109981381994, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 635, 
+	"meanOfRating": 3.264705882352941, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.065745348940791, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 636, 
+	"meanOfRating": 4.45, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8046738469715542, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 637, 
+	"meanOfRating": 2.4903846153846154, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.1928891262207153, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 638, 
+	"meanOfRating": 3.537313432835821, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0269264126429594, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 639, 
+	"meanOfRating": 2.9594594594594597, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1382678779048352, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 640, 
+	"meanOfRating": 4.229357798165138, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8085895242763566, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 641, 
+	"meanOfRating": 4.125, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7806247497997998, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 642, 
+	"meanOfRating": 3.6226415094339623, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1611057692275792, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 643, 
+	"meanOfRating": 3.737864077669903, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7939230973071266, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 644, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6172133998483676, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 645, 
+	"meanOfRating": 3.959016393442623, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8531286777004169, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 646, 
+	"meanOfRating": 2.9473684210526314, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.6862318321265948, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 647, 
+	"meanOfRating": 3.8275862068965516, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6469538979066796, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 648, 
+	"meanOfRating": 3.259259259259259, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2726560114017555, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 649, 
+	"meanOfRating": 3.7916666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9565200236040832, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 650, 
+	"meanOfRating": 3.1543408360128615, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.795064437258714, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 651, 
+	"meanOfRating": 3.2857142857142856, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3502330360721737, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 652, 
+	"meanOfRating": 3.1363636363636362, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.013340764073089, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 653, 
+	"meanOfRating": 2.6925795053003534, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1773096493545598, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 654, 
+	"meanOfRating": 3.687074829931973, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0867333631409994, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 655, 
+	"meanOfRating": 2.908029197080292, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7321659093781706, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 656, 
+	"meanOfRating": 2.5416666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0793194872490515, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 657, 
+	"meanOfRating": 3.2413793103448274, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.1935219517156401, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 658, 
+	"meanOfRating": 3.732394366197183, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8041747844293063, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 659, 
+	"meanOfRating": 3.7905759162303663, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8426554780620198, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 660, 
+	"meanOfRating": 2.5848214285714284, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 0.9691408033323495, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 661, 
+	"meanOfRating": 3.9173553719008263, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9053265413308536, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 662, 
+	"meanOfRating": 3.869565217391304, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9465887416120539, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 663, 
+	"meanOfRating": 3.5316455696202533, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9047755584054894, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 664, 
+	"meanOfRating": 3.746987951807229, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9358119146569347, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 665, 
+	"meanOfRating": 3.4788732394366195, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7756715387613727, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 666, 
+	"meanOfRating": 3.6653061224489796, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7890968799082175, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 667, 
+	"meanOfRating": 3.9574468085106385, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0096860015067803, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 668, 
+	"meanOfRating": 3.5217391304347827, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0371182992936143, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 669, 
+	"meanOfRating": 3.38, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1643023662262306, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 670, 
+	"meanOfRating": 3.847826086956522, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0208136419020777, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 671, 
+	"meanOfRating": 3.5806451612903225, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.150713482692707, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 672, 
+	"meanOfRating": 3.2413793103448274, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1034482758620692, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 673, 
+	"meanOfRating": 3.8857142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9789623828006752, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 674, 
+	"meanOfRating": 3.658536585365854, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9780457393055328, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 675, 
+	"meanOfRating": 3.7058823529411766, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.340092441164061, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 676, 
+	"meanOfRating": 3.5844155844155843, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4536175147670882, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 677, 
+	"meanOfRating": 3.5918367346938775, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.369021210714157, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 678, 
+	"meanOfRating": 3.4285714285714284, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9793792286287206, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 679, 
+	"meanOfRating": 3.661290322580645, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9662623097258173, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 680, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7608859102526822, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 681, 
+	"meanOfRating": 3.227272727272727, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.4438527431153263, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 682, 
+	"meanOfRating": 3.137844611528822, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.01297169014112, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 683, 
+	"meanOfRating": 3.2266666666666666, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0142101469726195, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 684, 
+	"meanOfRating": 3.488372093023256, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.924400321597758, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 685, 
+	"meanOfRating": 2.05, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 0.7399324293474371, 
+	"maxRating": 3, 
+	"minRating": 1
+},
+{
+	"userID": 686, 
+	"meanOfRating": 4.563380281690141, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8677702422957384, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 687, 
+	"meanOfRating": 3.4761904761904763, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8518354199999199, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 688, 
+	"meanOfRating": 4.833333333333333, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.6236095644623239, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 689, 
+	"meanOfRating": 3.8333333333333335, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2133516482134197, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 690, 
+	"meanOfRating": 3.1478260869565218, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0733408086406593, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 691, 
+	"meanOfRating": 4.21875, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.1383753500054365, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 692, 
+	"meanOfRating": 3.275, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8656644846590392, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 693, 
+	"meanOfRating": 3.1363636363636362, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9539268248923053, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 694, 
+	"meanOfRating": 4.1528662420382165, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6401194663134326, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 695, 
+	"meanOfRating": 3.289473684210526, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.295902342341593, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 696, 
+	"meanOfRating": 3.9310344827586206, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2014656131161616, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 697, 
+	"meanOfRating": 3.7142857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2627580223975023, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 698, 
+	"meanOfRating": 2.84251968503937, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1254059414615982, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 699, 
+	"meanOfRating": 3.1476510067114094, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7361776752108502, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 700, 
+	"meanOfRating": 3.6666666666666665, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.7126966450997985, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 701, 
+	"meanOfRating": 4.212121212121212, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7285342594043217, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 702, 
+	"meanOfRating": 2.4516129032258065, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.4992193598222257, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 703, 
+	"meanOfRating": 3.5319148936170213, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0488304292652117, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 704, 
+	"meanOfRating": 3.7777777777777777, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0195617552848402, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 705, 
+	"meanOfRating": 3.710526315789474, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1295371215487349, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 706, 
+	"meanOfRating": 3.310344827586207, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.17747386751475, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 707, 
+	"meanOfRating": 3.4957627118644066, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0230308963471142, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 708, 
+	"meanOfRating": 3.2, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2603854285778728, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 709, 
+	"meanOfRating": 3.572463768115942, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0064119158373601, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 710, 
+	"meanOfRating": 3.697674418604651, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8079512914437305, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 711, 
+	"meanOfRating": 3.8597285067873304, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.017163974355082, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 712, 
+	"meanOfRating": 3.765432098765432, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9063780169371678, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 713, 
+	"meanOfRating": 2.966666666666667, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8749603165604459, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 714, 
+	"meanOfRating": 3.522727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0332789019699369, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 715, 
+	"meanOfRating": 3.3832335329341316, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0595249582143567, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 716, 
+	"meanOfRating": 3.8884758364312266, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.039470617148107, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 717, 
+	"meanOfRating": 3.7096774193548385, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.122407600060205, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 718, 
+	"meanOfRating": 3.6923076923076925, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0415433852097384, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 719, 
+	"meanOfRating": 3.1044776119402986, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.198684955537986, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 720, 
+	"meanOfRating": 3.966666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7520342781785652, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 721, 
+	"meanOfRating": 3.5357142857142856, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0170736332784394, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 722, 
+	"meanOfRating": 3.619047619047619, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8151067985058901, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 723, 
+	"meanOfRating": 3.272727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9136250564655354, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 724, 
+	"meanOfRating": 2.164705882352941, 
+	"medianOfRating": 1.5, 
+	"standardDeviationOfRatings": 1.3092167287758636, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 725, 
+	"meanOfRating": 3.8, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.938083151964686, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 726, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2583057392117916, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 727, 
+	"meanOfRating": 3.0372670807453415, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0299140575479848, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 728, 
+	"meanOfRating": 3.576923076923077, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7428156890703064, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 729, 
+	"meanOfRating": 2.857142857142857, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.206558043744755, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 730, 
+	"meanOfRating": 3.236842105263158, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1569972598410845, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 731, 
+	"meanOfRating": 3.3855421686746987, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.4297301565368756, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 732, 
+	"meanOfRating": 3.7, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.345362404707371, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 733, 
+	"meanOfRating": 3.02803738317757, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.054212235678771, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 734, 
+	"meanOfRating": 3.609375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0095974986968816, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 735, 
+	"meanOfRating": 3.3207547169811322, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9668775830429399, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 736, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3844373104863459, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 737, 
+	"meanOfRating": 3.9696969696969697, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9995407577254934, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 738, 
+	"meanOfRating": 3.675675675675676, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8319321065741292, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 739, 
+	"meanOfRating": 3.6, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.5156328239856962, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 740, 
+	"meanOfRating": 3.4, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.9695359714832659, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 741, 
+	"meanOfRating": 3.4615384615384617, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0370360586702123, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 742, 
+	"meanOfRating": 3.4615384615384617, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0824036368823295, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 743, 
+	"meanOfRating": 3.6857142857142855, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0894671979964357, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 744, 
+	"meanOfRating": 3.8518518518518516, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8478165290562663, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 745, 
+	"meanOfRating": 3.1, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2871156384205213, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 746, 
+	"meanOfRating": 3.6417910447761193, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0030028427708322, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 747, 
+	"meanOfRating": 4.054607508532423, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1315009812297248, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 748, 
+	"meanOfRating": 3.7222222222222223, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7797593804232331, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 749, 
+	"meanOfRating": 3.622950819672131, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9540927271536674, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 750, 
+	"meanOfRating": 3.090909090909091, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.025837023018834, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 751, 
+	"meanOfRating": 3.5416666666666665, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0682326674213038, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 752, 
+	"meanOfRating": 3.2054794520547945, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2045450924372936, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 753, 
+	"meanOfRating": 3.5964912280701755, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1826175120247522, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 754, 
+	"meanOfRating": 3.3823529411764706, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8749691047437361, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 755, 
+	"meanOfRating": 3.1052631578947367, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2521449740389816, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 756, 
+	"meanOfRating": 3.1926605504587156, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.981265464742821, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 757, 
+	"meanOfRating": 3.3674698795180724, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7627800190923278, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 758, 
+	"meanOfRating": 3.876750700280112, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0243219124995242, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 759, 
+	"meanOfRating": 4.0625, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9333240326917549, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 760, 
+	"meanOfRating": 3.2439024390243905, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.184873931852792, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 761, 
+	"meanOfRating": 2.8484848484848486, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.416808451825571, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 762, 
+	"meanOfRating": 3.0476190476190474, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.6468206157895793, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 763, 
+	"meanOfRating": 3.7829457364341086, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8801095801230985, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 764, 
+	"meanOfRating": 3.688073394495413, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8746925824993044, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 765, 
+	"meanOfRating": 4.086956521739131, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0999226644063929, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 766, 
+	"meanOfRating": 3.354285714285714, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8350681262688724, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 767, 
+	"meanOfRating": 4.4324324324324325, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5472555873328808, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 768, 
+	"meanOfRating": 3.265625, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1489422785218586, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 769, 
+	"meanOfRating": 3.0689655172413794, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0147544116939422, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 770, 
+	"meanOfRating": 4.296875, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8602268505313002, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 771, 
+	"meanOfRating": 3.7142857142857144, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3324827218698303, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 772, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.816496580927726, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 773, 
+	"meanOfRating": 3.279503105590062, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1963255343558652, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 774, 
+	"meanOfRating": 2.0580357142857144, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.1383053187631569, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 775, 
+	"meanOfRating": 3.7857142857142856, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7726181304565692, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 776, 
+	"meanOfRating": 3.466666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.113267748282092, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 777, 
+	"meanOfRating": 4.055555555555555, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2234841969747356, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 778, 
+	"meanOfRating": 2.953846153846154, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2207282723001456, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 779, 
+	"meanOfRating": 3.918918918918919, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7489949438135686, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 780, 
+	"meanOfRating": 3.8727272727272726, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.079638751949347, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 781, 
+	"meanOfRating": 3.7857142857142856, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2637004294967238, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 782, 
+	"meanOfRating": 2.788793103448276, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8775231160845754, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 783, 
+	"meanOfRating": 3.8666666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8459051693633012, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 784, 
+	"meanOfRating": 3.8461538461538463, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.661717328234048, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 785, 
+	"meanOfRating": 3.7037037037037037, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8080527492322752, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 786, 
+	"meanOfRating": 3.871794871794872, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8822897709787307, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 787, 
+	"meanOfRating": 3.1403508771929824, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.05028979277865, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 788, 
+	"meanOfRating": 3.3413654618473894, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9051036367981665, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 789, 
+	"meanOfRating": 3.6666666666666665, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.0347497623614468, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 790, 
+	"meanOfRating": 3.017316017316017, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9889667000962626, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 791, 
+	"meanOfRating": 3.8, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0954451150103321, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 792, 
+	"meanOfRating": 3.127659574468085, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8408967168242344, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 793, 
+	"meanOfRating": 3.5090909090909093, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7597302696645885, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 794, 
+	"meanOfRating": 4.3076923076923075, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.72160242458822, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 795, 
+	"meanOfRating": 3.1320754716981134, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8839107467049488, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 796, 
+	"meanOfRating": 3.600558659217877, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0542278387258497, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 797, 
+	"meanOfRating": 2.6538461538461537, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.2071042174211706, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 798, 
+	"meanOfRating": 3.3263598326359833, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9296238791645473, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 799, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.816496580927726, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 800, 
+	"meanOfRating": 3.75, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6338656910463875, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 801, 
+	"meanOfRating": 4.038461538461538, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1259447052541884, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 802, 
+	"meanOfRating": 3.493333333333333, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9574038971208665, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 803, 
+	"meanOfRating": 3.090909090909091, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.421984025048493, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 804, 
+	"meanOfRating": 3.6656626506024095, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8026472657296835, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 805, 
+	"meanOfRating": 3.347985347985348, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.210366384062323, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 806, 
+	"meanOfRating": 3.642857142857143, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9641534300798257, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 807, 
+	"meanOfRating": 3.892156862745098, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8273138999917571, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 808, 
+	"meanOfRating": 4.130434782608695, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9914568913905546, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 809, 
+	"meanOfRating": 3.45, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.2439855304624727, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 810, 
+	"meanOfRating": 4.423076923076923, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.6890951102757277, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 811, 
+	"meanOfRating": 4.142857142857143, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8883218145798873, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 812, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2041594578792296, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 813, 
+	"meanOfRating": 2.793103448275862, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2697898372084118, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 814, 
+	"meanOfRating": 2.9714285714285715, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.6963461489687967, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 815, 
+	"meanOfRating": 3.7431693989071038, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1330334585962347, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 816, 
+	"meanOfRating": 3.84, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8333066662399864, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 817, 
+	"meanOfRating": 3.361111111111111, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8867160944173539, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 818, 
+	"meanOfRating": 3.4761904761904763, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2196427118919713, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 819, 
+	"meanOfRating": 4.071428571428571, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9974457174120672, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 820, 
+	"meanOfRating": 3.0, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.3093073414159542, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 821, 
+	"meanOfRating": 4.338709677419355, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.8602990550383608, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 822, 
+	"meanOfRating": 3.12, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9927738916792683, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 823, 
+	"meanOfRating": 4.005405405405406, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9270546052158207, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 824, 
+	"meanOfRating": 2.6, 
+	"medianOfRating": 2.5, 
+	"standardDeviationOfRatings": 0.9165151389911681, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 825, 
+	"meanOfRating": 3.613793103448276, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0711657001574582, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 826, 
+	"meanOfRating": 3.8260869565217392, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8263157577881458, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 827, 
+	"meanOfRating": 3.25, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.6338656910463875, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 828, 
+	"meanOfRating": 3.1153846153846154, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0769230769230766, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 829, 
+	"meanOfRating": 3.546875, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8087352684129708, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 830, 
+	"meanOfRating": 3.7452830188679247, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1579203931538005, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 831, 
+	"meanOfRating": 3.5205479452054793, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1599431852063857, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 832, 
+	"meanOfRating": 2.96, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7735631842325486, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 833, 
+	"meanOfRating": 3.056179775280899, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2663275270968006, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 834, 
+	"meanOfRating": 3.925925925925926, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9199809146943867, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 835, 
+	"meanOfRating": 4.147058823529412, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7970172190863781, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 836, 
+	"meanOfRating": 3.86, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.21671689394041, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 837, 
+	"meanOfRating": 3.0434782608695654, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.284633626321231, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 838, 
+	"meanOfRating": 4.118279569892473, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7161645507676002, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 839, 
+	"meanOfRating": 3.192982456140351, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.115105163654084, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 840, 
+	"meanOfRating": 4.137055837563452, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8163913799196053, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 841, 
+	"meanOfRating": 3.903225806451613, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0272053760058486, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 842, 
+	"meanOfRating": 3.740740740740741, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1735540383522116, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 843, 
+	"meanOfRating": 2.735294117647059, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8156132131683552, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 844, 
+	"meanOfRating": 3.506172839506173, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.833310470651171, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 845, 
+	"meanOfRating": 3.129032258064516, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0698789646307743, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 846, 
+	"meanOfRating": 3.740740740740741, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0444181767119731, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 847, 
+	"meanOfRating": 3.0342465753424657, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1551812024238783, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 848, 
+	"meanOfRating": 4.286666666666667, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 1.0666874997965528, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 849, 
+	"meanOfRating": 4.869565217391305, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.3367811605397754, 
+	"maxRating": 5, 
+	"minRating": 4
+},
+{
+	"userID": 850, 
+	"meanOfRating": 4.529411764705882, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9772498662256561, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 851, 
+	"meanOfRating": 3.45933014354067, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.110851878420309, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 852, 
+	"meanOfRating": 3.4693877551020407, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8106948598384163, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 853, 
+	"meanOfRating": 2.975609756097561, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0703955247556922, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 854, 
+	"meanOfRating": 3.2119815668202767, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0300750451974652, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 855, 
+	"meanOfRating": 3.347826086956522, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.6330530338504798, 
+	"maxRating": 4, 
+	"minRating": 2
+},
+{
+	"userID": 856, 
+	"meanOfRating": 3.423076923076923, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 1.1153846153846154, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 857, 
+	"meanOfRating": 3.272727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.4200453956193917, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 858, 
+	"meanOfRating": 3.4285714285714284, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0033955955097849, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 859, 
+	"meanOfRating": 3.8461538461538463, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8926612915656006, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 860, 
+	"meanOfRating": 3.23943661971831, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.863415894309527, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 861, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0115610777177464, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 862, 
+	"meanOfRating": 4.363636363636363, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7946099412149881, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 863, 
+	"meanOfRating": 3.121495327102804, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.39230381509553, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 864, 
+	"meanOfRating": 3.82312925170068, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9309543071867206, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 865, 
+	"meanOfRating": 2.287878787878788, 
+	"medianOfRating": 1.5, 
+	"standardDeviationOfRatings": 1.515227270833428, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 866, 
+	"meanOfRating": 2.7, 
+	"medianOfRating": 2.5, 
+	"standardDeviationOfRatings": 1.004987562112089, 
+	"maxRating": 4, 
+	"minRating": 1
+},
+{
+	"userID": 867, 
+	"meanOfRating": 4.2631578947368425, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9647527778854394, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 868, 
+	"meanOfRating": 2.951923076923077, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.343644639463784, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 869, 
+	"meanOfRating": 2.872340425531915, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.281903857990814, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 870, 
+	"meanOfRating": 3.453531598513011, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.972998173702067, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 871, 
+	"meanOfRating": 3.4956521739130433, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9172161382326431, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 872, 
+	"meanOfRating": 3.380281690140845, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9095146079415737, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 873, 
+	"meanOfRating": 2.9, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2206555615733703, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 874, 
+	"meanOfRating": 3.823529411764706, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7463869141440895, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 875, 
+	"meanOfRating": 4.191011235955056, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7914771355216319, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 876, 
+	"meanOfRating": 4.190476190476191, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7939681905015749, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 877, 
+	"meanOfRating": 3.8271604938271606, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8719231399017073, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 878, 
+	"meanOfRating": 3.2686567164179103, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.100638750124575, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 879, 
+	"meanOfRating": 3.689655172413793, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8750743131344498, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 880, 
+	"meanOfRating": 3.426630434782609, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9808201727368965, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 881, 
+	"meanOfRating": 3.3204633204633205, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1763459298710193, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 882, 
+	"meanOfRating": 4.0510948905109485, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0059760694517836, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 883, 
+	"meanOfRating": 3.925373134328358, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8988123645905863, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 884, 
+	"meanOfRating": 3.7209302325581395, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1876414264933677, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 885, 
+	"meanOfRating": 3.3137254901960786, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.999807747763291, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 886, 
+	"meanOfRating": 3.3625, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1244674665517598, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 887, 
+	"meanOfRating": 3.9239766081871346, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.3594195869884727, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 888, 
+	"meanOfRating": 4.3, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.5567764362830021, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 889, 
+	"meanOfRating": 3.4355828220858897, 
+	"medianOfRating": 3.5, 
+	"standardDeviationOfRatings": 0.8654004343956385, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 890, 
+	"meanOfRating": 3.857142857142857, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1173626983929181, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 891, 
+	"meanOfRating": 4.127659574468085, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8408967168242344, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 892, 
+	"meanOfRating": 4.0, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8973905139421045, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 893, 
+	"meanOfRating": 3.4237288135593222, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8675582299708287, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 894, 
+	"meanOfRating": 3.636734693877551, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7190395741574298, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 895, 
+	"meanOfRating": 3.75, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9420721840708386, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 896, 
+	"meanOfRating": 2.9806629834254146, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1477393596984637, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 897, 
+	"meanOfRating": 3.962162162162162, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.988406129283978, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 898, 
+	"meanOfRating": 3.5, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.02469507659596, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 899, 
+	"meanOfRating": 3.525925925925926, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.031572906381172, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 900, 
+	"meanOfRating": 2.5555555555555554, 
+	"medianOfRating": 2.0, 
+	"standardDeviationOfRatings": 1.0863916943626946, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 901, 
+	"meanOfRating": 3.8548387096774195, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0678101527764796, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 902, 
+	"meanOfRating": 3.4489795918367347, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1076952444989316, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 903, 
+	"meanOfRating": 3.8529411764705883, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9965337850645536, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 904, 
+	"meanOfRating": 3.74468085106383, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8864964534467935, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 905, 
+	"meanOfRating": 3.275, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7741931283601011, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 906, 
+	"meanOfRating": 3.8048780487804876, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7060543817624455, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 907, 
+	"meanOfRating": 4.571428571428571, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.6801360408136047, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 908, 
+	"meanOfRating": 3.554054054054054, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7002295355692764, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 909, 
+	"meanOfRating": 4.346153846153846, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.7816308243423683, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 910, 
+	"meanOfRating": 3.1666666666666665, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0826921179274474, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 911, 
+	"meanOfRating": 3.806122448979592, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9439189180124308, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 912, 
+	"meanOfRating": 3.811320754716981, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9527834847511393, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 913, 
+	"meanOfRating": 3.522727272727273, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.124559907797666, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 914, 
+	"meanOfRating": 3.0869565217391304, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2480608777745499, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 915, 
+	"meanOfRating": 3.1153846153846154, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9334354691932, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 916, 
+	"meanOfRating": 3.365930599369085, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8908083920788243, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 917, 
+	"meanOfRating": 3.5428571428571427, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1549361675090135, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 918, 
+	"meanOfRating": 3.349514563106796, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0946359758800317, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 919, 
+	"meanOfRating": 3.4700460829493087, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9649509897517603, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 920, 
+	"meanOfRating": 3.230769230769231, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.7994080650317895, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 921, 
+	"meanOfRating": 3.272727272727273, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1274193453038175, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 922, 
+	"meanOfRating": 3.37007874015748, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.0179735126908482, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 923, 
+	"meanOfRating": 4.148648648648648, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.6913057060772251, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 924, 
+	"meanOfRating": 3.7560975609756095, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8198895762912981, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 925, 
+	"meanOfRating": 3.125, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.8926785535678563, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 926, 
+	"meanOfRating": 3.3, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 0.9, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 927, 
+	"meanOfRating": 3.691666666666667, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.138682230572789, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 928, 
+	"meanOfRating": 4.6875, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.6817945071647321, 
+	"maxRating": 5, 
+	"minRating": 3
+},
+{
+	"userID": 929, 
+	"meanOfRating": 3.693877551020408, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9939425030110954, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 930, 
+	"meanOfRating": 2.9682539682539684, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.112244320086022, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 931, 
+	"meanOfRating": 3.721311475409836, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8894858994262644, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 932, 
+	"meanOfRating": 3.966804979253112, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.976347754168895, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 933, 
+	"meanOfRating": 2.6467391304347827, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.1933649071060728, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 934, 
+	"meanOfRating": 3.7011494252873565, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9662695481805522, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 935, 
+	"meanOfRating": 3.923076923076923, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.858878678176627, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 936, 
+	"meanOfRating": 3.7464788732394365, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.9600221514339138, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 937, 
+	"meanOfRating": 3.375, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.1976539567003484, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 938, 
+	"meanOfRating": 3.2685185185185186, 
+	"medianOfRating": 3.0, 
+	"standardDeviationOfRatings": 1.2368304884115982, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 939, 
+	"meanOfRating": 4.26530612244898, 
+	"medianOfRating": 5.0, 
+	"standardDeviationOfRatings": 0.9641642294708338, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 940, 
+	"meanOfRating": 3.457943925233645, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.0072668101164468, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+{
+	"userID": 941, 
+	"meanOfRating": 4.045454545454546, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.8778730870830895, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 942, 
+	"meanOfRating": 4.265822784810126, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 0.7582267914871862, 
+	"maxRating": 5, 
+	"minRating": 2
+},
+{
+	"userID": 943, 
+	"meanOfRating": 3.4107142857142856, 
+	"medianOfRating": 4.0, 
+	"standardDeviationOfRatings": 1.2551340145808432, 
+	"maxRating": 5, 
+	"minRating": 1
+},
+]

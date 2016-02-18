@@ -19,6 +19,7 @@ public class Loader {
     private Loader() {}
 
     private static void load(String file) {
+        System.out.print("Loading " + filePath + "...");
         try {
             BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
@@ -29,16 +30,17 @@ public class Loader {
                         item_id = Integer.valueOf(data[1]),
                         rating = Integer.valueOf(data[2]);
 
-                users.putIfAbsent(user_id, new User());
+                users.putIfAbsent(user_id, new User(user_id));
                 users.get(user_id).addRating(item_id, rating);
 
-                items.putIfAbsent(item_id, new Item());
+                items.putIfAbsent(item_id, new Item(item_id));
                 items.get(item_id).addRating(rating);
 
             }
         } catch (IOException e) {
             e.printStackTrace();
         }
+        System.out.println("DONE");
     }
 
     public static void setDataPath(String path) {

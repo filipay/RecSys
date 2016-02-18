@@ -8,9 +8,11 @@ import java.util.Set;
  * Author: Filip Piskor[12331436] on 16/02/16.
  */
 public class User {
+    private final Integer userID;
     private HashMap<Integer, Integer> ratings;
 
-    public User() {
+    public User(Integer userID) {
+        this.userID = userID;
         ratings = new HashMap<>();
     }
 
@@ -45,7 +47,9 @@ public class User {
 
         sortedRatings.sort(Integer::compareTo);
 
-        return (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5;
+        return middle > 0 ?
+                (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5 :
+                sortedRatings.get(middle);
     }
 
     public double standardDeviationRating() {
@@ -74,5 +78,17 @@ public class User {
             minRating = Math.min(minRating, ratings.get(itemID));
         }
         return minRating;
+    }
+
+    @Override
+    public String toString() {
+        return "{" + "\n\t" +
+                "\"userID\": " + userID + ", \n\t" +
+                "\"meanOfRating\": " + meanRating() + ", \n\t" +
+                "\"medianOfRating\": " + medianRating() + ", \n\t" +
+                "\"standardDeviationOfRatings\": " + standardDeviationRating() + ", \n\t" +
+                "\"maxRating\": " + maxRating() + ", \n\t" +
+                "\"minRating\": " + minRating() + "\n" +
+                '}';
     }
 }
