@@ -8,7 +8,6 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 
@@ -17,8 +16,8 @@ import java.util.HashMap;
  */
 public class Main {
     public static void main(String[] args) {
-        HashMap<Integer, User> users = Loader.getUsers();
-        HashMap<Integer, Item> items = Loader.getItems();
+        HashMap<Integer, User> users = Loader.loadUsers();
+        HashMap<Integer, Item> items = Loader.loadItems();
 
         Stats stats = new Stats(users, items);
 

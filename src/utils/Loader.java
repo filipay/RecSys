@@ -47,19 +47,19 @@ public class Loader {
         filePath = path;
     }
 
-    public static HashMap<Integer, User> getUsers() {
+    public static HashMap<Integer, User> loadUsers() {
         if (users.isEmpty()) load(filePath);
         return users;
     }
 
-    public static HashMap<Integer, Item> getItems() {
+    public static HashMap<Integer, Item> loadItems() {
         if (items.isEmpty()) load(filePath);
         return items;
     }
 
     public static void main(String[] args) {
-        for (Integer integer : getUsers().get(1).getItems()) {
-            System.out.println("movie id = " + integer + ", rating = " + getUsers().get(1).getRating(integer));
+        for (Integer integer : loadUsers().get(1).getItems()) {
+            System.out.println("movie id = " + integer + ", rating = " + loadUsers().get(1).getRating(integer));
         }
     }
 }

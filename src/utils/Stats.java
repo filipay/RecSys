@@ -1,5 +1,6 @@
 package utils;
 
+import model.Dataset;
 import model.Item;
 import model.User;
 
@@ -10,14 +11,11 @@ import java.util.stream.Collectors;
 /**
  * Author: Filip Piskor[12331436] on 15/02/16.
  */
-public class Stats {
+public class Stats extends Dataset{
     public static final int RATINGS = 5;
-    private HashMap<Integer, User> users;
-    private HashMap<Integer, Item> items;
 
     public Stats(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
-        this.users = users;
-        this.items = items;
+        super(users, items);
     }
 
     public int uniqueUsersCount() {
@@ -37,17 +35,10 @@ public class Stats {
         }
         return count;
     }
-    public User getUser(Integer userID) {
-        return users.get(userID);
-    }
-    public Item getItem(Integer itemID) {
-        return items.get(itemID);
-    }
 
     public double calcDensityMatrix() {
         return (double) totalRatingsCount() / (uniqueUsersCount() * uniqueItemsCount());
     }
-
 
     public double calcUsersMeanRating() {
         double sum = 0;
@@ -173,4 +164,5 @@ public class Stats {
         }
         return stats;
     }
+
 }
