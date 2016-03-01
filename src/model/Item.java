@@ -21,7 +21,9 @@ public class Item {
     public void addRating(Integer rating) {
         ratings.add(rating);
     }
-
+    public Integer getItemID() {
+        return itemID;
+    }
     public double meanRating() {
         double sumRating = 0;
 

@@ -32,10 +32,6 @@ public class L1O extends Dataset{
         return sum / (ratings.size() - 1);
     }
 
-    public double rootMeanSquaredError(Double actualRating, Double predictedRating) {
-        return Math.sqrt(Math.pow(predictedRating - actualRating, 2));
-    }
-
     public void test(boolean writeToFile) {
         ArrayList<String> lines = new ArrayList<>();
         double sumError = 0;
@@ -76,6 +72,8 @@ public class L1O extends Dataset{
     }
 
     public static void main(String[] args) {
+        if (args[0] != null) Loader.setDataPath(args[0]);
+
         L1O l1o = new L1O(Loader.loadUsers(), Loader.loadItems());
         long start = System.nanoTime();
         for (int i = 0; i < 10; i++) {

@@ -2,6 +2,7 @@ package model;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Set;
 
 /**
@@ -10,22 +11,36 @@ import java.util.Set;
 public class User {
     private final Integer userID;
     private HashMap<Integer, Integer> ratings;
-
+    private HashSet<User> neighbourhood;
     public User(Integer userID) {
         this.userID = userID;
         ratings = new HashMap<>();
+        neighbourhood = new HashSet<>();
     }
 
+    public Integer getUserID() {
+        return userID;
+    }
     public Set<Integer> getItems() {
         return ratings.keySet();
     }
-
     public Integer getRating(Integer itemID) {
         return ratings.get(itemID);
     }
-
     public void addRating(Integer itemID, Integer rating) {
         ratings.putIfAbsent(itemID, rating);
+    }
+
+    public HashSet<User> getNeighbourhood() {
+        return neighbourhood;
+    }
+
+    public void addNeighbour(User u) {
+        neighbourhood.add(u);
+    }
+
+    public boolean hasNeighbour(User u) {
+        return neighbourhood.contains(u);
     }
 
     public double meanRating() {

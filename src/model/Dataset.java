@@ -9,10 +9,18 @@ public class Dataset {
     protected HashMap<Integer, User> users;
     protected HashMap<Integer, Item> items;
 
+    protected double rootMeanSquaredError(Double a, Double b) {
+        return Math.sqrt(Math.pow(b - a, 2));
+    }
+    protected double rootMeanSquaredError(Integer a, Integer b) {
+        return Math.sqrt(Math.pow(b - a, 2));
+    }
     public Dataset(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         this.users = users;
         this.items = items;
     }
+
+
 
     public User getUser(Integer userID) {
         return users.get(userID);
