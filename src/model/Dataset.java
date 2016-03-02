@@ -15,6 +15,10 @@ public class Dataset {
     protected double rootMeanSquaredError(Integer a, Integer b) {
         return Math.sqrt(Math.pow(b - a, 2));
     }
+
+    protected double coverage(Integer canPredict, Integer totalItems) {
+        return canPredict/totalItems;
+    }
     public Dataset(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         this.users = users;
         this.items = items;

@@ -35,6 +35,10 @@ public class User {
         return neighbourhood;
     }
 
+    public int getNeighbourhoodSize() {
+        return neighbourhood.size();
+    }
+
     public void addNeighbour(User u) {
         neighbourhood.add(u);
     }

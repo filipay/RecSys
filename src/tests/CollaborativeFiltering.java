@@ -45,23 +45,24 @@ public class CollaborativeFiltering extends Dataset{
         return sum / corated;
     }
 
-    public void findNeighbourhood(User u, int size, int minCorated) {
-        HashSet<User> neighbourhood = u.getNeighbourhood();
+    public void findNeighbourhood(User u, int minCorated) {
         TreeMap<Double, User> sortedSimilarities = new TreeMap<>();
         for (Integer userID : users.keySet()) {
             if (!u.getUserID().equals(userID)) {
                 User neighbour = getUser(userID);
-                double similarity = distance(u, neighbour);
-                if (corated(u, neighbour) > minCorated) {
-                    sortedSimilarities.putIfAbsent(similarity, neighbour);
+                if (!u.hasNeighbour(neighbour)) {
+                    double similarity = distance(u, neighbour);
+                    if (corated(u, neighbour) > minCorated) {
+                        sortedSimilarities.putIfAbsent(similarity, neighbour);
+                    }
                 }
             }
         }
 
         for (Double similarity : sortedSimilarities.keySet()) {
-            if (neighbourhood.size() == size) return;
-            System.out.println(similarity+", "+sortedSimilarities.get(similarity).getUserID());
-            neighbourhood.add(sortedSimilarities.get(similarity));
+            User neighbour = sortedSimilarities.get(similarity);
+            u.addNeighbour(neighbour);
+            neighbour.addNeighbour(u);
         }
 
     }
@@ -83,14 +84,28 @@ public class CollaborativeFiltering extends Dataset{
 
     public static void main(String[] args) {
         CollaborativeFiltering cf = new CollaborativeFiltering(Loader.loadUsers(), Loader.loadItems());
-        User testUser = cf.getUser(34);
-        System.out.println(cf.distance(testUser, cf.getUser(2)));
-        cf.findNeighbourhood(testUser, 100,5);
-        for (User user : testUser.getNeighbourhood()) {
-            System.out.println(user);
+        long start = System.currentTimeMillis();
+        for (Integer userID : cf.users.keySet()) {
+            User user = cf.getUser(userID);
+            cf.findNeighbourhood(user, 10);
+        }
+        long end = System.currentTimeMillis();
+        System.out.println((end-start)+" ms");
+        int canPredict = 0;
+        double sum = 0;
+        for (Integer userID : cf.users.keySet()) {
+            System.out.println(userID);
+            User user = cf.getUser(userID);
+            for (Integer itemID : user.getItems()) {
+                double actual = user.getRating(itemID);
+                double prediciton = cf.prediction(user.getUserID(), itemID);
+                if (!Double.isNaN(prediciton)) {
+                    sum += cf.rootMeanSquaredError(actual, prediciton);
+                    canPredict++;
+                }
+            }
         }
 
-
-        System.out.println(cf.prediction(1, 4));
+        System.out.println(sum/canPredict);
     }
 }
