@@ -98,14 +98,17 @@ public class CollaborativeFiltering extends Dataset{
             User user = cf.getUser(userID);
             for (Integer itemID : user.getItems()) {
                 double actual = user.getRating(itemID);
-                double prediciton = cf.prediction(user.getUserID(), itemID);
-                if (!Double.isNaN(prediciton)) {
-                    sum += cf.rootMeanSquaredError(actual, prediciton);
+                double prediction = cf.prediction(user.getUserID(), itemID);
+                if (!Double.isNaN(prediction)) {
+                    sum += cf.rootMeanSquaredError(actual, prediction);
                     canPredict++;
                 }
             }
         }
+        start = System.currentTimeMillis();
 
         System.out.println(sum/canPredict);
+        System.out.println((start-end)+" ms");
+
     }
 }
