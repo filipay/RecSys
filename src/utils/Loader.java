@@ -20,6 +20,7 @@ public class Loader {
 
     private static void load(String file) {
         System.out.print("Loading " + filePath + "...");
+        long start = System.currentTimeMillis();
         try {
             BufferedReader br = new BufferedReader(new FileReader(file));
             String line;
@@ -40,7 +41,7 @@ public class Loader {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("DONE");
+        System.out.println("DONE["+(System.currentTimeMillis() - start)+"ms]");
     }
 
     public static void setDataPath(String path) {

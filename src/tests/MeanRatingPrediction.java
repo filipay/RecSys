@@ -15,9 +15,9 @@ import java.util.concurrent.TimeUnit;
 /**
  * Author: Filip Piskor[12331436] on 20/02/16.
  */
-public class L1O extends Dataset{
+public class MeanRatingPrediction extends Dataset{
 
-    public L1O(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
+    public MeanRatingPrediction(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         super(users, items);
     }
 
@@ -74,10 +74,10 @@ public class L1O extends Dataset{
     public static void main(String[] args) {
         if (args[0] != null) Loader.setDataPath(args[0]);
 
-        L1O l1o = new L1O(Loader.loadUsers(), Loader.loadItems());
+        MeanRatingPrediction meanRatingPrediction = new MeanRatingPrediction(Loader.loadUsers(), Loader.loadItems());
         long start = System.nanoTime();
         for (int i = 0; i < 10; i++) {
-            l1o.test(true);
+            meanRatingPrediction.test(true);
         }
         long end = System.nanoTime();
 

@@ -24,9 +24,15 @@ public class User {
     public Set<Integer> getItems() {
         return ratings.keySet();
     }
+
     public Integer getRating(Integer itemID) {
         return ratings.get(itemID);
     }
+
+    public boolean hasRating(Integer itemID) {
+        return ratings.containsKey(itemID);
+    }
+
     public void addRating(Integer itemID, Integer rating) {
         ratings.putIfAbsent(itemID, rating);
     }
@@ -45,6 +51,10 @@ public class User {
 
     public boolean hasNeighbour(User u) {
         return neighbourhood.contains(u);
+    }
+
+    public void removeAllNeighbours() {
+        neighbourhood = new HashSet<>();
     }
 
     public double meanRating() {

@@ -2,5 +2,5 @@ THIS IS A JAVA PROGRAM
 
 1) To run either import into your choice of IDE and run OR open command line and go to src folder
 2) Type 'javac model/*.java tests/*.java utils/*.java' to compile the java code
-3) Run by entering 'java tests.L1O ../res/ratings.csv'
+3) Run by entering 'java tests.MeanRatingPrediction ../res/ratings.csv'
 (The second argument is the dataset file path)
