@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
-
 /**
  * Author: Filip Piskor[12331436] on 16/02/16.
  */
@@ -12,15 +11,18 @@ public class User {
     private final Integer userID;
     private HashMap<Integer, Integer> ratings;
     private HashSet<User> neighbourhood;
+    private HashMap<User, Distance> distanceToUser;
     public User(Integer userID) {
         this.userID = userID;
         ratings = new HashMap<>();
+        distanceToUser = new HashMap<>();
         neighbourhood = new HashSet<>();
     }
 
     public Integer getUserID() {
         return userID;
     }
+
     public Set<Integer> getItems() {
         return ratings.keySet();
     }
@@ -37,6 +39,18 @@ public class User {
         ratings.putIfAbsent(itemID, rating);
     }
 
+    public Distance getDistanceToUser(User user) {
+        return distanceToUser.get(user);
+    }
+
+    public boolean hasDistanceToUser(User user) {
+        return distanceToUser.containsKey(user);
+    }
+
+    public void addDistanceToUser(User user, Distance distance) {
+        distanceToUser.putIfAbsent(user, distance);
+
+    }
     public HashSet<User> getNeighbourhood() {
         return neighbourhood;
     }

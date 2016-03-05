@@ -1,7 +1,7 @@
 package tests;
 
-import com.sun.javafx.tools.resource.ResourceTraversal;
 import model.Dataset;
+import model.Distance;
 import model.Item;
 import model.User;
 import utils.Loader;
@@ -10,33 +10,22 @@ import utils.Stats;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.TreeMap;
+import java.util.*;
 
 /**
  * Author: Filip Piskor[12331436] on 28/02/16.
  */
+
+
 public class DistanceSimilarity extends Dataset{
-    private final double MAX_DIFF;
+    private final double MAX_DIFF = 16;
     private Stats stats;
     public DistanceSimilarity(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         super(users, items);
         stats = new Stats(users, items);
-        MAX_DIFF = Math.pow(stats.calcItemsMaxRating() - stats.calcItemsMinRating(), 2);
     }
 
-
-    public double corated(User u1, User u2) {
-        int corated = 0;
-        for (Integer itemID : u1.getItems()) {
-            if (u2.getRating(itemID) != null) corated++;
-        }
-        return corated;
-    }
-
-    public double distance(User u1, User u2) {
+    public Distance distance(User u1, User u2) {
         int corated = 0;
         double sum = 0;
         for (Integer itemID : u1.getItems()) {
@@ -47,27 +36,38 @@ public class DistanceSimilarity extends Dataset{
                 corated++;
             }
         }
-        return sum / corated;
+        return new Distance(sum / corated, corated);
     }
 
     public void findNeighbourhood(User u, int minCorated, int size) {
-        TreeMap<Double, User> sortedDistance = new TreeMap<>();
+        ArrayList<User> neighbours = new ArrayList<>();
         for (Integer userID : users.keySet()) {
             if (!u.getUserID().equals(userID)) {
                 User neighbour = getUser(userID);
                 if (!u.hasNeighbour(neighbour)) {
-                    double similarity = distance(u, neighbour);
-                    if (corated(u, neighbour) >= minCorated) {
-                        sortedDistance.putIfAbsent(similarity, neighbour);
+                    Distance distance = u.getDistanceToUser(neighbour);
+                    if (distance == null) {
+                        distance = distance(u, neighbour);
+                        u.addDistanceToUser(neighbour, distance);
+                        neighbour.addDistanceToUser(u, distance);
+                    }
+                    if (distance.getCorated() >= minCorated && !Double.isNaN(distance.getDistance())) {
+                        neighbours.add(neighbour);
                     }
                 }
             }
         }
 
-        for (Double distance : sortedDistance.keySet()) {
+        Collections.sort(neighbours, new Comparator<User>() {
+            @Override
+            public int compare(User u1, User u2) {
+                return Double.compare(u1.getDistanceToUser(u).getDistance(), u2.getDistanceToUser(u).getDistance());
+            }
+        });
+
+
+        for (User neighbour : neighbours) {
             if (u.getNeighbourhoodSize() == size) return;
-//            System.out.println(distance);
-            User neighbour = sortedDistance.get(distance);
             u.addNeighbour(neighbour);
             if (neighbour.getNeighbourhoodSize() < size) {
                 neighbour.addNeighbour(u);
@@ -83,7 +83,7 @@ public class DistanceSimilarity extends Dataset{
         double bottom = 0;
         for (User neighbour : neighbourhood) {
             if (neighbour.hasRating(itemID)) {
-                double weight = 1 - (distance(user, neighbour) / MAX_DIFF);
+                double weight = 1 - (user.getDistanceToUser(neighbour).getDistance() / MAX_DIFF);
                 top += weight * neighbour.getRating(itemID);
                 bottom += weight;
             }
@@ -135,18 +135,22 @@ public class DistanceSimilarity extends Dataset{
         int MIN_CORATED = 10;
         int SIZE = 10;
         ArrayList<String> lines = new ArrayList<>();
+        long start = System.currentTimeMillis();
         lines.add("minCorated, size, coverage, meanRMSE");
-        for (int i = 1; i < 7; i++) {
+        for (int i = 1; i < 11; i++) {
             int currMinCorated = MIN_CORATED * i;
             DistanceSimilarity ds = new DistanceSimilarity(Loader.loadUsers(), Loader.loadItems());
-            for (int j = 1; j < 7; j++) {
+            for (int j = 1; j < 11; j++) {
                 int currSize = SIZE * j;
                 System.out.println("minCorated: " + currMinCorated + ", size: " + currSize);
                 Result result = ds.test(MIN_CORATED * i, SIZE * j);
                 ds.resetAllNeighbourhoods();
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
+            lines.add("");
         }
-        Files.write(Paths.get("dist_sim.csv"),lines);
+        Files.write(Paths.get("dist_sim_"+MIN_CORATED*SIZE+".csv"),lines);
+        long end = System.currentTimeMillis();
+        System.out.println("Total time: " + (end - start));
     }
 }
