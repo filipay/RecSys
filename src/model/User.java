@@ -11,11 +11,13 @@ public class User {
     private final Integer userID;
     private HashMap<Integer, Integer> ratings;
     private HashSet<User> neighbourhood;
-    private HashMap<User, Distance> distanceToUser;
+    private HashMap<User, Metric> distanceToUser;
+    private HashMap<User, HashSet<Integer>> corated;
     public User(Integer userID) {
         this.userID = userID;
         ratings = new HashMap<>();
         distanceToUser = new HashMap<>();
+        corated = new HashMap<>();
         neighbourhood = new HashSet<>();
     }
 
@@ -39,17 +41,37 @@ public class User {
         ratings.putIfAbsent(itemID, rating);
     }
 
-    public Distance getDistanceToUser(User user) {
-        return distanceToUser.get(user);
+    public HashSet<Integer> getCorated(User user) {
+        if (!corated.containsKey(user)) {
+            HashSet<Integer> sharedItems = new HashSet<>();
+            setCorated(user, sharedItems);
+            user.setCorated(this, sharedItems);
+            for (Integer itemID : getItems()) {
+                if (user.hasRating(itemID)) {
+                    sharedItems.add(itemID);
+                }
+            }
+        }
+        return corated.get(user);
     }
 
-    public boolean hasDistanceToUser(User user) {
-        return distanceToUser.containsKey(user);
+    private void setCorated(User user, HashSet<Integer> items) {
+        corated.putIfAbsent(user, items);
     }
 
-    public void addDistanceToUser(User user, Distance distance) {
-        distanceToUser.putIfAbsent(user, distance);
+    public Double getMetricToUser(User user, Metric.Type type) {
+        Metric metric = distanceToUser.get(user);
+        return metric != null ? metric.getMetric(type) : null;
+    }
 
+    public void addMetricToUser(User user, double metric, Metric.Type type) {
+        if (distanceToUser.containsKey(user)) {
+            distanceToUser.get(user).addMetric(type, metric);
+        } else {
+            Metric sharedMetric = new Metric(metric, type);
+            distanceToUser.put(user, sharedMetric);
+            user.distanceToUser.put(this, sharedMetric);
+        }
     }
     public HashSet<User> getNeighbourhood() {
         return neighbourhood;

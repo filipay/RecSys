@@ -163,7 +163,7 @@ public class Stats extends Dataset{
                 "Max rating of items : " + calcItemsMaxRating() + "\n" +
                 "Min rating of items : " + calcItemsMinRating() + "\n" +
                 "=======================================================" + "\n"
-                ;;
+                ;
         for (Integer rating : ratings.keySet()) {
             stats += "Total amount of rating "+ rating + ": " + ratings.get(rating) + "\n";
         }

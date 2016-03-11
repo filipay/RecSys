@@ -1,36 +1,40 @@
 package tests;
 
-import model.*;
+import model.Item;
+import model.Metric;
+import model.Similarity;
+import model.User;
 import utils.Loader;
-import utils.Stats;
 
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
- * Author: Filip Piskor[12331436] on 28/02/16.
+ * Author: Filip Piskor[12331436] on 10/03/16.
  */
+public class CosineSimilarity extends Similarity {
 
-
-public class DistanceSimilarity extends Similarity{
-    private Stats stats;
-    public DistanceSimilarity(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
+    protected CosineSimilarity(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         super(users, items);
-        stats = new Stats(users, items);
     }
 
+    @Override
     public Double computeMetric(User u1, User u2) {
-//        System.out.println("calculating distance between: " + u1.getUserID() + ", " + u2.getUserID());
-        HashSet<Integer> corated = u1.getCorated(u2);
-        double sum = 0;
-        for (Integer itemID : corated) {
-            Integer rating1 = u1.getRating(itemID);
-            Integer rating2 = u2.getRating(itemID);
-            sum += Math.pow(rating1-rating2,2);
+        double top = 0, bottom;
+        double sumA = 0, sumB = 0;
+        for (Integer itemID : u1.getCorated(u2)) {
+            double a = u1.getRating(itemID), b = u2.getRating(itemID);
+            top +=  a * b;
+            sumA += a * a;
+            sumB += b * b;
         }
-        return sum / corated.size();
+
+        bottom = Math.sqrt(sumA) * Math.sqrt(sumB);
+
+        return top / bottom;
     }
 
     public static void main(String[] args) throws IOException {
@@ -41,17 +45,17 @@ public class DistanceSimilarity extends Similarity{
         lines.add("minCorated, size, coverage, meanRMSE");
         for (int i = 1; i < 11; i++) {
             int currMinCorated = MIN_CORATED * i;
-            DistanceSimilarity ds = new DistanceSimilarity(Loader.loadUsers(), Loader.loadItems());
+            CosineSimilarity cs = new CosineSimilarity(Loader.loadUsers(), Loader.loadItems());
             for (int j = 1; j < 11; j++) {
                 int currSize = SIZE * j;
                 System.out.println("minCorated: " + currMinCorated + ", size: " + currSize);
-                Result result = ds.test(MIN_CORATED * i, SIZE * j, Metric.Type.DISTANCE);
-                ds.resetAllNeighbourhoods();
+                Result result = cs.test(MIN_CORATED * i, SIZE * j, Metric.Type.COSINE);
+                cs.resetAllNeighbourhoods();
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
             lines.add("");
         }
-        Files.write(Paths.get("dist_sim_"+MIN_CORATED*SIZE+".csv"),lines);
+        Files.write(Paths.get("cos_sim_"+MIN_CORATED*SIZE+".csv"),lines);
         long end = System.currentTimeMillis();
         System.out.println("Total time: " + (end - start));
 

@@ -1,7 +1,6 @@
 package model;
 
 import java.util.ArrayList;
-import java.util.stream.Collectors;
 
 /**
  * Author: Filip Piskor[12331436] on 16/02/16.
