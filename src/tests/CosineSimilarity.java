@@ -22,7 +22,7 @@ public class CosineSimilarity extends Similarity {
     }
 
     @Override
-    public Double computeMetric(User u1, User u2) {
+    public Double computeSimilarity(User u1, User u2) {
         double top = 0, bottom;
         double sumA = 0, sumB = 0;
         for (Integer itemID : u1.getCorated(u2)) {
@@ -41,23 +41,30 @@ public class CosineSimilarity extends Similarity {
         int MIN_CORATED = 10;
         int SIZE = 10;
         ArrayList<String> lines = new ArrayList<>();
+
         long start = System.currentTimeMillis();
         lines.add("minCorated, size, coverage, meanRMSE");
-        for (int i = 1; i < 11; i++) {
-            int currMinCorated = MIN_CORATED * i;
+
+        for (int stepCorated = 1; stepCorated < 11; stepCorated++) {
+            int currMinCorated = MIN_CORATED * stepCorated;
+
             CosineSimilarity cs = new CosineSimilarity(Loader.loadUsers(), Loader.loadItems());
-            for (int j = 1; j < 11; j++) {
-                int currSize = SIZE * j;
+            for (int stepSize = 1; stepSize < 11; stepSize++) {
+
+                int currSize = SIZE * stepSize;
+
                 System.out.println("minCorated: " + currMinCorated + ", size: " + currSize);
-                Result result = cs.test(MIN_CORATED * i, SIZE * j, Metric.Type.COSINE);
+
+                Result result = cs.test(currMinCorated, currSize, Metric.Type.COSINE);
                 cs.resetAllNeighbourhoods();
+
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
             lines.add("");
         }
-        Files.write(Paths.get("cos_sim_"+MIN_CORATED*SIZE+".csv"),lines);
+
+        Files.write(Paths.get("cos_sim_"+ MIN_CORATED * SIZE +".csv"),lines);
         long end = System.currentTimeMillis();
         System.out.println("Total time: " + (end - start));
-
     }
 }
