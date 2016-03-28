@@ -16,7 +16,7 @@ public abstract class Similarity extends Dataset {
         double coverage;
         double meanRMSE;
 
-        public Result(double coverage, double meanRMSE) {
+        Result(double coverage, double meanRMSE) {
             this.coverage = coverage;
             this.meanRMSE = meanRMSE;
         }
@@ -30,13 +30,13 @@ public abstract class Similarity extends Dataset {
         }
     }
 
-    public void resetAllNeighbourhoods() {
+    protected void resetAllNeighbourhoods() {
         for (Integer userID : users.keySet()) {
             getUser(userID).removeAllNeighbours();
         }
     }
 
-    public void findNeighbourhood(User u, int minCorated, int size, Metric.Type type) {
+    private void findNeighbourhood(User u, int minCorated, int size, Metric.Type type) {
         ArrayList<User> neighbours = new ArrayList<>();
 
         //Find all the possible neighbours
@@ -71,7 +71,7 @@ public abstract class Similarity extends Dataset {
 
     }
 
-    public double prediction(Integer userID, Integer itemID, Metric.Type type) {
+    protected double prediction(Integer userID, Integer itemID, Metric.Type type) {
         User user = getUser(userID);
         HashSet<User> neighbourhood = user.getNeighbourhood();
         double top = 0;
@@ -89,7 +89,7 @@ public abstract class Similarity extends Dataset {
         return top/bottom;
     }
 
-    public Result test(int minCorated, int size, Metric.Type type) {
+    protected Result test(int minCorated, int size, Metric.Type type) {
         System.out.print("creating neighbourhoods...");
         long start = System.currentTimeMillis();
 
