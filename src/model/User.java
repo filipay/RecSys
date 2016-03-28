@@ -8,17 +8,25 @@ import java.util.Set;
  * Author: Filip Piskor[12331436] on 16/02/16.
  */
 public class User {
+
+    private enum Stat {
+        MEAN_RATING, MEDIAN_RATING, SD_RATING, MAX_RATING, MIN_RATING
+    }
+
     private final Integer userID;
     private HashMap<Integer, Integer> ratings;
     private HashSet<User> neighbourhood;
     private HashMap<User, Metric> distanceToUser;
     private HashMap<User, HashSet<Integer>> corated;
+    private HashMap<Stat, Double> stats;
+
     public User(Integer userID) {
         this.userID = userID;
         ratings = new HashMap<>();
         distanceToUser = new HashMap<>();
         corated = new HashMap<>();
         neighbourhood = new HashSet<>();
+        stats = new HashMap<>();
     }
 
     public Integer getUserID() {
@@ -94,55 +102,78 @@ public class User {
     }
 
     public double meanRating() {
-        double sumRating = 0;
+        if (!stats.containsKey(Stat.MEAN_RATING)) {
+            double sumRating = 0;
 
-        for (Integer itemID : ratings.keySet()) {
-            sumRating += ratings.get(itemID);
+            for (Integer itemID : ratings.keySet()) {
+                sumRating += ratings.get(itemID);
+            }
+            stats.put(Stat.MEAN_RATING, sumRating / ratings.size());
         }
-        return sumRating / ratings.size();
+
+        return stats.get(Stat.MEAN_RATING);
     }
 
     public double medianRating() {
-        ArrayList<Integer> sortedRatings = new ArrayList<>();
-        int middle = ratings.size() / 2;
+        if (!stats.containsKey(Stat.MEDIAN_RATING)) {
+            ArrayList<Integer> sortedRatings = new ArrayList<>();
+            int middle = ratings.size() / 2;
 
-        for (Integer itemID : ratings.keySet()) {
-            sortedRatings.add(ratings.get(itemID));
+            for (Integer itemID : ratings.keySet()) {
+                sortedRatings.add(ratings.get(itemID));
+            }
+
+            sortedRatings.sort(Integer::compareTo);
+
+            double result = middle > 0 ?
+                    (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5 :
+                    sortedRatings.get(middle);
+
+            stats.put(Stat.MEDIAN_RATING, result);
         }
 
-        sortedRatings.sort(Integer::compareTo);
-
-        return middle > 0 ?
-                (sortedRatings.get(middle - 1) + sortedRatings.get(middle)) * 0.5 :
-                sortedRatings.get(middle);
+        return stats.get(Stat.MEDIAN_RATING);
     }
 
     public double standardDeviationRating() {
-        double mean = meanRating();
-        double count = 0;
-        double sum = 0;
+        if (!stats.containsKey(Stat.SD_RATING)) {
+            double mean = meanRating();
+            double count = 0;
+            double sum = 0;
 
-        for (Integer itemID : ratings.keySet()) {
-            sum += Math.pow(ratings.get(itemID) - mean, 2);
-            count++;
+            for (Integer itemID : ratings.keySet()) {
+                sum += Math.pow(ratings.get(itemID) - mean, 2);
+                count++;
+            }
+            stats.put(Stat.SD_RATING, Math.sqrt(sum / count));
         }
-        return Math.sqrt(sum / count);
+
+
+        return stats.get(Stat.SD_RATING);
     }
 
     public int maxRating() {
-        int maxRating = Integer.MIN_VALUE;
-        for (Integer itemID : ratings.keySet()) {
-            maxRating = Math.max(maxRating, ratings.get(itemID));
+        if (!stats.containsKey(Stat.MAX_RATING)) {
+            int maxRating = Integer.MIN_VALUE;
+            for (Integer itemID : ratings.keySet()) {
+                maxRating = Math.max(maxRating, ratings.get(itemID));
+            }
+            stats.put(Stat.MAX_RATING, (double) maxRating);
         }
-        return maxRating;
+
+        return stats.get(Stat.MAX_RATING).intValue();
     }
 
     public int minRating() {
-        int minRating = Integer.MAX_VALUE;
-        for (Integer itemID : ratings.keySet()) {
-            minRating = Math.min(minRating, ratings.get(itemID));
+        if (!stats.containsKey(Stat.MIN_RATING)) {
+            int minRating = Integer.MAX_VALUE;
+            for (Integer itemID : ratings.keySet()) {
+                minRating = Math.min(minRating, ratings.get(itemID));
+            }
+            stats.put(Stat.MIN_RATING, (double) minRating);
         }
-        return minRating;
+
+        return stats.get(Stat.MIN_RATING).intValue();
     }
 
     @Override

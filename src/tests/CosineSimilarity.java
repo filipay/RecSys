@@ -64,6 +64,7 @@ public class CosineSimilarity extends Similarity {
         }
 
         Files.write(Paths.get("cos_sim_"+ MIN_CORATED * SIZE +".csv"),lines);
+
         long end = System.currentTimeMillis();
         System.out.println("Total time: " + (end - start));
     }

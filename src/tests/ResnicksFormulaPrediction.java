@@ -6,6 +6,10 @@ import model.Similarity;
 import model.User;
 import utils.Loader;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -44,7 +48,7 @@ public class ResnicksFormulaPrediction extends Similarity {
             if (neighbour.hasRating(itemID)) {
 
                 Double meanDeviation = neighbour.getRating(itemID) - neighbour.meanRating();
-                Double similarity = user.getMetricToUser(neighbour, Metric.Type.PEARSON);
+                Double similarity = user.getMetricToUser(neighbour, type);
 
                 top += meanDeviation * similarity;
 
@@ -55,9 +59,35 @@ public class ResnicksFormulaPrediction extends Similarity {
         return user.meanRating() + top/bottom;
     }
 
-    public static void main(String[] args) {
-        ResnicksFormulaPrediction rfm = new ResnicksFormulaPrediction(Loader.loadUsers(), Loader.loadItems());
+    public static void main(String[] args) throws IOException {
+        int MIN_CORATED = 10;
+        int SIZE = 10;
+        ArrayList<String> lines = new ArrayList<>();
 
-        rfm.test(10, 10, Metric.Type.PEARSON);
+        long start = System.currentTimeMillis();
+        lines.add("minCorated, size, coverage, meanRMSE");
+
+        for (int stepCorated = 1; stepCorated < 11; stepCorated++) {
+            int currMinCorated = MIN_CORATED * stepCorated;
+
+            ResnicksFormulaPrediction rfp = new ResnicksFormulaPrediction(Loader.loadUsers(), Loader.loadItems());
+            for (int stepSize = 1; stepSize < 11; stepSize++) {
+
+                int currSize = SIZE * stepSize;
+
+                System.out.println("minCorated: " + currMinCorated + ", size: " + currSize);
+
+                Result result = rfp.test(currMinCorated, currSize, Metric.Type.PEARSON);
+                rfp.resetAllNeighbourhoods();
+
+                lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
+            }
+            lines.add("");
+        }
+
+        Files.write(Paths.get("resnick_"+ MIN_CORATED * SIZE +".csv"),lines);
+
+        long end = System.currentTimeMillis();
+        System.out.println("Total time: " + (end - start));
     }
 }
