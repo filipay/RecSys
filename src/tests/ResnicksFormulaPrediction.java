@@ -39,13 +39,25 @@ public class ResnicksFormulaPrediction extends Similarity {
     @Override
     protected double prediction(Integer userID, Integer itemID, Metric.Type type) {
         User user = getUser(userID);
+        Double top = 0.0, bottom = 0.0;
+        for (User neighbour : user.getNeighbourhood()) {
+            if (neighbour.hasRating(itemID)) {
 
-        return 0.0;
+                Double meanDeviation = neighbour.getRating(itemID) - neighbour.meanRating();
+                Double similarity = user.getMetricToUser(neighbour, Metric.Type.PEARSON);
+
+                top += meanDeviation * similarity;
+
+                bottom += Math.abs(similarity);
+
+            }
+        }
+        return user.meanRating() + top/bottom;
     }
 
     public static void main(String[] args) {
         ResnicksFormulaPrediction rfm = new ResnicksFormulaPrediction(Loader.loadUsers(), Loader.loadItems());
 
-        System.out.println(rfm.computeSimilarity(rfm.getUser(1), rfm.getUser(1)));
+        rfm.test(10, 10, Metric.Type.PEARSON);
     }
 }
