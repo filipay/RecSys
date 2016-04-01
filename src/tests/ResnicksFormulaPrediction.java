@@ -62,13 +62,15 @@ public class ResnicksFormulaPrediction extends Similarity {
     public static void main(String[] args) throws IOException {
         int MIN_CORATED = 10;
         int SIZE = 10;
+
+        long averageRuntime = 0;
         ArrayList<String> lines = new ArrayList<>();
 
-        long start = System.currentTimeMillis();
         lines.add("minCorated, size, coverage, meanRMSE");
 
         for (int stepCorated = 1; stepCorated < 11; stepCorated++) {
             int currMinCorated = MIN_CORATED * stepCorated;
+            long start = System.currentTimeMillis();
 
             ResnicksFormulaPrediction rfp = new ResnicksFormulaPrediction(Loader.loadUsers(), Loader.loadItems());
             for (int stepSize = 1; stepSize < 11; stepSize++) {
@@ -82,12 +84,12 @@ public class ResnicksFormulaPrediction extends Similarity {
 
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
-            lines.add("");
+            long end = System.currentTimeMillis();
+            averageRuntime += (end-start);
+            lines.add(currMinCorated + ", "+(end - start)/10.0);
         }
 
         Files.write(Paths.get("resnick_"+ MIN_CORATED * SIZE +".csv"),lines);
-
-        long end = System.currentTimeMillis();
-        System.out.println("Total time: " + (end - start));
+        System.out.println("Total average runtime: " + averageRuntime/100);
     }
 }

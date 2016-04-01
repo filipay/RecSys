@@ -39,13 +39,14 @@ public abstract class Similarity extends Dataset {
     private void findNeighbourhood(User u, int minCorated, int size, Metric.Type type) {
         ArrayList<User> neighbours = new ArrayList<>();
 
-//        long start = System.currentTimeMillis();
-
         //Find all the possible neighbours
         for (Integer userID : users.keySet()) {
             if (!u.getUserID().equals(userID)) {
                 User neighbour = getUser(userID);
+                //Check if user isn't already a neighbour and that the number of corated items is above threshold
                 if (!u.hasNeighbour(neighbour) && u.getCorated(neighbour).size() >= minCorated) {
+
+                    //Get the similarity between the users
                     Double metric = u.getMetricToUser(neighbour, type);
                     if (metric == null) {
                         metric = computeSimilarity(u, neighbour);
@@ -58,8 +59,6 @@ public abstract class Similarity extends Dataset {
             }
         }
 
-        long end = System.currentTimeMillis();
-//        System.out.println("finding neighbours: " + (end - start));
         //Sort neighbours
         Collections.sort(neighbours,
                 (u1, u2) -> Double.compare(u2.getMetricToUser(u, type), u1.getMetricToUser(u, type)));

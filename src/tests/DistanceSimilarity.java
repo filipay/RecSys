@@ -15,10 +15,8 @@ import java.util.*;
 
 
 public class DistanceSimilarity extends Similarity{
-    private Stats stats;
     public DistanceSimilarity(HashMap<Integer, User> users, HashMap<Integer, Item> items) {
         super(users, items);
-        stats = new Stats(users, items);
     }
 
     public Double computeSimilarity(User u1, User u2) {
@@ -41,10 +39,11 @@ public class DistanceSimilarity extends Similarity{
         int SIZE = 10;
         ArrayList<String> lines = new ArrayList<>();
 
-        long start = System.currentTimeMillis();
+
         lines.add("minCorated, size, coverage, meanRMSE");
 
         for (int stepCorated = 1; stepCorated < 11; stepCorated++) {
+            long start = System.currentTimeMillis();
             int currMinCorated = MIN_CORATED * stepCorated;
 
             DistanceSimilarity ds = new DistanceSimilarity(Loader.loadUsers(), Loader.loadItems());
@@ -59,12 +58,11 @@ public class DistanceSimilarity extends Similarity{
 
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
-            lines.add("");
+            long end = System.currentTimeMillis();
+            lines.add(currMinCorated + ", "+(end - start)/10.0);
         }
 
         Files.write(Paths.get("dist_sim_"+MIN_CORATED*SIZE+".csv"),lines);
-        long end = System.currentTimeMillis();
-        System.out.println("Total time: " + (end - start));
 
     }
 }

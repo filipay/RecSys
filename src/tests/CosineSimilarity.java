@@ -42,12 +42,12 @@ public class CosineSimilarity extends Similarity {
         int SIZE = 10;
         ArrayList<String> lines = new ArrayList<>();
 
-        long start = System.currentTimeMillis();
+
         lines.add("minCorated, size, coverage, meanRMSE");
 
         for (int stepCorated = 1; stepCorated < 11; stepCorated++) {
+            long start = System.currentTimeMillis();
             int currMinCorated = MIN_CORATED * stepCorated;
-
             CosineSimilarity cs = new CosineSimilarity(Loader.loadUsers(), Loader.loadItems());
             for (int stepSize = 1; stepSize < 11; stepSize++) {
 
@@ -60,12 +60,11 @@ public class CosineSimilarity extends Similarity {
 
                 lines.add(currMinCorated + ", " + currSize + ", " + result.getCoverage() + ", " + result.getMeanRMSE());
             }
-            lines.add("");
+            long end = System.currentTimeMillis();
+            lines.add(currMinCorated + ", "+(end - start)/10.0);
         }
 
         Files.write(Paths.get("cos_sim_"+ MIN_CORATED * SIZE +".csv"),lines);
 
-        long end = System.currentTimeMillis();
-        System.out.println("Total time: " + (end - start));
     }
 }
